@@ -1,0 +1,3 @@
+[submodule "themes/plus360-theme"]
+	path = themes/plus360-theme
+	url = https://github.com/Kolya-YA/theme-plus360.git
