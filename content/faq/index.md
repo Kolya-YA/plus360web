@@ -1,5 +1,5 @@
 ---
-date: "2021-09-15"
+date: "2023-10-01"
 title: "FAQ"
 subtitle: "Häufig gestellte Fragen (FAQ)"
 description: "Häufig gestellte Fragen (FAQ)"

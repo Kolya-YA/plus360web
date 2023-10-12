@@ -2,39 +2,34 @@
   "S": {
     "order": 1,
     "name": "S",
-    "square": "80",
+    "descr": "Klein",
     "fromP": "1",
-    "toP": "5",
-    "POI": 6,
-    "line3": "",
-    "line4": "",
-    "line5": "",
-    "price": 350
+    "toP": "3",
+    "cForm": false,
+    "mVersion": true,
+    "pageSpeed": "true",
+    "price": 600
   },
   "L": {
     "order": 2,
     "name": "L",
-    "square": "160",
-    "fromP": "8",
-    "toP": "12",
-    "POI": 10,
-    "line3": "",
-    "line4": "",
-    "line5": "",
-    "price": 500,
-    "cta": ""
+    "descr": "Normal",
+    "fromP": "1",
+    "toP": "3",
+    "cForm": false,
+    "mVersion": true,
+    "pageSpeed": "true",
+    "price": 600
   },
   "XL": {
     "order": 3,
     "name": "XL",
-    "square": "250",
-    "fromP": "14",
-    "toP": "20",
-    "POI": 15,
-    "line3": "",
-    "line4": "",
-    "line5": "",
-    "price": 650,
-    "cta": ""
+    "descr": "Vollständig",
+    "fromP": "1",
+    "toP": "3",
+    "cForm": false,
+    "mVersion": true,
+    "pageSpeed": "true",
+    "price": 600
   }
 }

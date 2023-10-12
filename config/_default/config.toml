@@ -1,10 +1,10 @@
 baseURL = "https://photo.plus360.eu/"
 languageCode = "de"
-theme = "plus360-theme"
+theme = "theme-plus360"
 enableRobotsTXT = true
 disableKinds = ["taxonomy", "term"]
 
-title = "plus360 — Google Street View, Virtuelle Rundgänge, Innen- und Architekturfotografie"
+title = "plus360 — Barrierefreie Website"
 
 [markup]
   [markup.goldmark]
@@ -15,10 +15,10 @@ title = "plus360 — Google Street View, Virtuelle Rundgänge, Innen- und Archit
       unsafe = true
 
 [params]
-  description = "Wir bieten als 360° Panorama Fotografie  für Ihrem Firmen- und Geschäfts"
+  description = "Wir entwickeln benutzerfreundliche Websites unter Berücksichtigung von Barrierefreiheit für alle."
   titleWord = "plus"
   titleDigit = "360"
-  department = "foto"
+  department = ""
   email = "info@plus360.eu"
   phone = "+49 (30) 000 000 000"
   phoneLink = ""
