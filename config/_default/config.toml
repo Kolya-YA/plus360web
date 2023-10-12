@@ -1,0 +1,27 @@
+baseURL = "https://photo.plus360.eu/"
+languageCode = "de"
+theme = "plus360-theme"
+enableRobotsTXT = true
+disableKinds = ["taxonomy", "term"]
+
+title = "plus360 — Google Street View, Virtuelle Rundgänge, Innen- und Architekturfotografie"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  description = "Wir bieten als 360° Panorama Fotografie  für Ihrem Firmen- und Geschäfts"
+  titleWord = "plus"
+  titleDigit = "360"
+  department = "foto"
+  email = "info@plus360.eu"
+  phone = "+49 (30) 000 000 000"
+  phoneLink = ""
+  instagramLink = "https://www.instagram.com/plus360.eu/"
+  facebookLink = "https://www.facebook.com/plus360"  
+  clickToLoadBtn = "Click to<br>veiw"

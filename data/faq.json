@@ -1,0 +1,32 @@
+[
+  {
+    "order": 10,
+    "q": "Was?",
+    "a": "__360º__ Panoramen, __Google Street View__ Panoramen & Interior Fotos"
+  },
+  {
+    "order": 20,
+    "q": "Wo?",
+    "a": "Answer 2"
+  },
+  {
+    "order": 30,
+    "q": "Wann?",
+    "a": "Nach Erhalt Ihrer Bestellung von Ihnen. Bitte kontaktieren Sie uns über die [Seite Kontakt](/contact)"
+  },
+  {
+    "order": 40,
+    "q": "Wie viel kostet das?",
+    "a": "Es ist gar nicht teuer. Alle Antworten finden Sie in unserer [Preisliste](/price)" 
+  },
+  {
+    "order": 50,
+    "q": "Warum brauche ich es?",
+    "a": "Denn Sie wollen besser sein als Ihre Konkurrenten, mehr Kunden haben und sich keine Sorgen um die Zukunft von Ihnen und Ihrem Unternehmen machen müssen"
+  },
+  {
+    "order": 50,
+    "q": "Warum sollte ich Sie wählen?",
+    "a": "Wir sind cool und wir haben sehr gute Angebote"
+  }
+]

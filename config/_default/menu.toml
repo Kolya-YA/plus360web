@@ -1,0 +1,25 @@
+[[portfolio]]
+  name = "Street view"
+  weight = 40
+  url= "#"
+  identifier = "street_view"
+[[portfolio]]
+  name = "Virtual tours"
+  weight = 60
+  url= "#"
+  identifier = "virtual_tours"
+[[portfolio]]
+  name = "Cities"
+  weight = 80
+  url= "#"
+  identifier = "cities"
+[[portfolio]]
+  name = "Points"
+  weight = 100
+  url= "#"
+  identifier = "poi"
+[[portfolio]]
+  name = "All"
+  weight = 120
+  url= "#"
+  identifier = "all"
