@@ -1,8 +1,8 @@
 ---
-date: "2023-10-12"
+date: "2023-10-13"
 title: "plus360"
 subtitle: "Barrierefreie und schnelle Websites für jedermann"
-description: "Google Street View Geschäftsfoto, Innen- und Architekturfotografie, Virtuelle Rundgänge für Ihr Unternehmen"
+description: "Entdecken Sie unsere barrierefreien und schnellen Webseiten, die für alle zugänglich sind. Unsere professionellen Webdesign-Services bieten ein inklusives Online-Erlebnis. Kontaktieren Sie uns für benutzerfreundliche Webseiten und eine erstklassige Nutzererfahrung."
 menu:
   top:
     name: "Homepage"
@@ -10,24 +10,16 @@ menu:
     idetifier: "home"
 ---
 
-### Unsere Dienstleistungen
+### Unsere Kompetenzen
 
-- Google Street View Geschäftsfoto
-- Innen- und Architekturfotografie
-- Virtuelle Rundgänge für Ihr Unternehmen
-
-Wir bieten alle unsere Services zu fairen und günstige Preisen an.
+Wir bieten alle unsere Services zu fairen und günstige [Preisen]({{< relref "price" >}}) an.
 
 **Ihr Business *plus360* ist gleich Erfolg**
 
 **Kommt bald!** ***Bleiben Sie dran!***
 
-### Our Services
+### Our competences
 
-- Google Street view
-- Interior and architectural photography
-- Virtual tours for your business
-
-We offer all our services at fair and reasonable prices.
+We offer all our services at fair and reasonable [prices]({{< relref "price" >}}).
 
 **Comming soon! Stay tuned!**
