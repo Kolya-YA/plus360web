@@ -1,7 +1,7 @@
 ---
 date: "2021-11-01"
-title: "Google Street View"
-subtitle: "360° Panorama-Fotografie"
+title: "Modernisierte Websites"
+subtitle: "Modernisierte Websites"
 ---
 
 Alle unsere besten **Google Street View** und **360°-Panoramafotos**.

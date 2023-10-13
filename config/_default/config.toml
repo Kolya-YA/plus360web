@@ -1,4 +1,4 @@
-baseURL = "https://photo.plus360.eu/"
+baseURL = "https://plus360.eu/"
 languageCode = "de"
 theme = "theme-plus360"
 enableRobotsTXT = true

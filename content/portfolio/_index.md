@@ -5,7 +5,7 @@ subtitle: "Our works"
 menu:
   top:
     name: "portfolio"
-    weight: 70
+    weight: 100
     idetifier: "portfolio"
 ---
 

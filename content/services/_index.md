@@ -4,7 +4,7 @@ title: "Services"
 subtitle: "Unsere Dienstleistungen"
 menu:
   top:
-    weight: 80
+    weight: 60
     idetifier: "services"
 ---
 
