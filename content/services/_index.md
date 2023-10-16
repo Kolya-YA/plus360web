@@ -1,5 +1,5 @@
 ---
-date: "2022-04-20"
+date: "2023-10-16"
 title: "Services"
 subtitle: "Unsere Dienstleistungen"
 menu:
@@ -8,4 +8,11 @@ menu:
     idetifier: "services"
 ---
 
-Wir bieten einen umfassenden Service, um eine auffällige und ins Auge fallende visuelle Online-Identität für Ihr Unternehmen zu schaffen. Wir bieten Ihnen und Ihrem Unternehmen professionelle Fotos von Innenräumen und Fassaden, 360°-Bilder, die mit Google Street View auf Google veröffentlicht werden, sowie die Erstellung von phantasievollen virtuellen Rundgängen und Spaziergängen durch Ihre Geschäftsräume.
+Unsere Dienstleistungen
+Wir bieten Ihnen die Erstellung von modernen Webseiten für Ihr Unternehmen, die stets den Anforderungen und Wünschen unserer Kunden entsprechen und somit zur selbstbewussten Entwicklung des Unternehmens beitragen. Unsere Webseiten erfüllen die strengsten und modernsten Anforderungen der deutschen und europäischen Gesetzgebung, wie z.B:
+
+- Datenschutzgrundverordnung (DSGVO)
+- Barrierefreiheit (A11y)
+- Einsatz grüner Technologien für statische Webseiten (SSG).
+
+Auf Kundenwunsch erstellen wir mehrsprachige Websites unter Berücksichtigung von Hieroglyphenschreibweise und Rechts-nach-Links-Sprachen.
