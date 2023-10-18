@@ -4,6 +4,6 @@ title: "Neue Websites"
 subtitle: "Neue Websites — subtitle"
 ---
 
-Hier finden Sie Stadt- und Architekturfotos, Natur- und Sightseeingfotos aus Deutschland und ganz Europa.
+### Neue Websites
 
-All best _Photo_ works.
+All best _Neue Websites_ works.
