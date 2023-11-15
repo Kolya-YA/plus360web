@@ -8,28 +8,28 @@
     "cForm": false,
     "mVersion": true,
     "pageSpeed": "true",
-    "price": 600
+    "price": 800
   },
   "L": {
     "order": 2,
     "name": "L",
     "descr": "Normal",
     "fromP": "1",
-    "toP": "3",
-    "cForm": false,
+    "toP": "6",
+    "cForm": true,
     "mVersion": true,
     "pageSpeed": "true",
-    "price": 600
+    "price": 1400
   },
   "XL": {
     "order": 3,
     "name": "XL",
     "descr": "Vollständig",
     "fromP": "1",
-    "toP": "3",
-    "cForm": false,
+    "toP": "9",
+    "cForm": true,
     "mVersion": true,
     "pageSpeed": "true",
-    "price": 600
+    "price": 2200
   }
 }

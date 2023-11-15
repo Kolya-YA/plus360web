@@ -30,6 +30,8 @@ Wir bieten alle unsere Services zu fairen und günstige [Preisen]({{< relref "pr
 
 **Kommt bald!** ***Bleiben Sie dran!***
 
+{{< text-scroller speed="slow" direction="left" data="HTML, CSS, JavaScript, A11y, SSG,i18n, TypeScript" >}}
+
 ## Gesetzliche Anforderungen für barrierefreie Websites
 
 In Deutschland gibt es Gesetze, die vorschreiben, dass Websites für alle leicht zugänglich sein müssen.
@@ -43,3 +45,5 @@ Außerdem ist das [**Allgemeine Gleichbehandlungsgesetz (AGG)**](https://www.ges
 Es ist zu betonen, dass diese Vorgaben nicht nur für öffentliche Stellen, sondern auch für Unternehmen und Organisationen gelten. Eine barrierefreie Webseite ist somit nicht nur eine gesetzliche Verpflichtung, sondern auch eine soziale Verantwortung.
 
 Ab dem 28. Juni 2025 wird durch das Barrierefreiheitsgesetz (BFG) die Barrierefreiheit für die meisten Websites, die Produkte und Dienstleistungen anbieten, verpflichtend. Das bedeutet, dass alle Produkte und Dienstleistungen, die nach diesem Datum auf den Markt gebracht werden, für Verbraucherinnen und Verbraucher barrierefrei und leicht zugänglich sein müssen.
+
+{{< text-scroller speed="slow" direction="right" data="BGG, WCAG 2.2, BITV, AGG, BFG, DSGVO/GDPR" >}}
