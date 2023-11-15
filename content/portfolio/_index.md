@@ -1,7 +1,7 @@
 ---
 date: "2023-10-17"
 title: "Projekte"
-subtitle: "Unsere Projekte"
+subtitle: "Unsere Projekte für Kunden & Partner"
 menu:
   top:
     name: "projekte"
@@ -9,7 +9,7 @@ menu:
     idetifier: "projekte"
 ---
 
-In this section we present our most interesting works.
+Hier präsentieren wir unsere interessantesten Projekte.
 
 - [Foto-Website](https://photo.plus360.eu/)
 - [Arztpraxis-Website](https://arztpraxis.plus360.eu/)

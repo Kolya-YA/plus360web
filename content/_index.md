@@ -30,7 +30,7 @@ Wir bieten alle unsere Services zu fairen und günstige [Preisen]({{< relref "pr
 
 **Kommt bald!** ***Bleiben Sie dran!***
 
-## Gesetzliche Anforderungen für barrierefreie Websites.
+## Gesetzliche Anforderungen für barrierefreie Websites
 
 In Deutschland gibt es Gesetze, die vorschreiben, dass Websites für alle leicht zugänglich sein müssen.
 
@@ -38,7 +38,7 @@ Das [**Behindertengleichstellungsgesetz (BGG)**](https://www.gesetze-im-internet
 
 Der weltweite Standard für Barrierefreiheit sind die [**"Web Content Accessibility Guidelines" (WCAG) 2.2**](https://www.w3.org/TR/WCAG22/). In Deutschland wird die [**Barrierefreie-Informationstechnik-Verordnung (BITV) 2.0**](https://www.gesetze-im-internet.de/bitv_2_0/BJNR184300011.html) auf den europäischen Standard EN 301 549 bezogen.
 
-Außerdem ist das Allgemeine Gleichbehandlungsgesetz (AGG) zu beachten, das Unternehmen und Organisationen verbietet, Benachteiligungen aufgrund von Behinderungen zuzulassen - dies schließt auch die Forderung nach einer barrierefreien Website ein.
+Außerdem ist das [**Allgemeine Gleichbehandlungsgesetz (AGG)**](https://www.gesetze-im-internet.de/agg/) zu beachten, das Unternehmen und Organisationen verbietet, Benachteiligungen aufgrund von Behinderungen zuzulassen - dies schließt auch die Forderung nach einer barrierefreien Website ein.
 
 Es ist zu betonen, dass diese Vorgaben nicht nur für öffentliche Stellen, sondern auch für Unternehmen und Organisationen gelten. Eine barrierefreie Webseite ist somit nicht nur eine gesetzliche Verpflichtung, sondern auch eine soziale Verantwortung.
 
