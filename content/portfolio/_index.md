@@ -5,7 +5,7 @@ subtitle: "Unsere Projekte für Kunden & Partner"
 menu:
   top:
     name: "portfolio"
-    weight: 100
+    weight: 30
     idetifier: "portfolio"
 ---
 

@@ -6,7 +6,7 @@ description: "Entdecken Sie unsere barrierefreien und schnellen Webseiten, die f
 menu:
   top:
     name: "Homepage"
-    weight: 60
+    weight: 10
     idetifier: "home"
 ---
 

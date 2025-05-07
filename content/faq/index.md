@@ -6,7 +6,7 @@ description: "Häufig gestellte Fragen (FAQ)"
 type: "faq"
 menu:
   top:
-    weight: 90
+    weight: 60
     idetifier: "faq"
 ---
 

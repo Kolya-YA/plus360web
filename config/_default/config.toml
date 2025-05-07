@@ -1,5 +1,8 @@
 baseURL = "https://plus360.eu/"
 languageCode = "de"
+defaultContentLanguage = 'de'
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
 theme = "theme-plus360"
 enableRobotsTXT = true
 disableKinds = ["taxonomy", "term"]
@@ -7,21 +10,28 @@ disableKinds = ["taxonomy", "term"]
 title = "plus360 — Barrierefreie Website"
 
 [markup]
-  [markup.goldmark]
-    [markup.goldmark.parser]
-      [markup.goldmark.parser.attribute]
-        block = true
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark]
+[markup.goldmark.parser]
+[markup.goldmark.parser.attribute]
+block = true
+[markup.goldmark.renderer]
+unsafe = true
 
 [params]
-  description = "Wir entwickeln benutzerfreundliche Websites unter Berücksichtigung von Barrierefreiheit für alle."
-  titleWord = "plus"
-  titleDigit = "360"
-  department = ""
-  email = "info@plus360.eu"
-  phone = "+49 (30) 000 000 000"
-  phoneLink = ""
-  instagramLink = "https://www.instagram.com/plus360.eu/"
-  facebookLink = "https://www.facebook.com/plus360"  
-  clickToLoadBtn = "Click to<br>veiw"
+description = "Wir entwickeln benutzerfreundliche Websites unter Berücksichtigung von Barrierefreiheit für alle."
+titleWord = "plus"
+titleDigit = "360"
+department = ""
+email = "info@plus360.eu"
+phone = "+49 (30) 000 000 000"
+phoneLink = ""
+instagramLink = "https://www.instagram.com/plus360.eu/"
+facebookLink = "https://www.facebook.com/plus360"
+
+[languages]
+[languages.de]
+weight = 1
+[languages.en]
+weight = 2
+[languages.ru]
+weight = 3

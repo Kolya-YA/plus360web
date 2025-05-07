@@ -4,7 +4,7 @@ title: "Preise — Alpha version"
 type: "price"
 menu:
   top:
-    weight: 80
+    weight: 40
     name: "Preise"
     idetifier: "preise"
 
