@@ -1,17 +1,21 @@
 ---
-date: "2025-05-07"
+date: "2025-05-15"
 title: "Leistungen"
 url: "/services"
-subtitle: "Unsere Dienstleistungen"
+subtitle: "Professionelle Webentwicklung und modernes Webdesign"
 menu:
   top:
     weight: 20
 ---
 
-Wir bieten Ihnen die Erstellung von modernen Webseiten für Ihr Unternehmen, die stets den Anforderungen und Wünschen unserer Kunden entsprechen und somit zur selbstbewussten Entwicklung des Unternehmens beitragen. Unsere Webseiten erfüllen die strengsten und modernsten Anforderungen der deutschen und europäischen Gesetzgebung, wie z.B:
+Wir entwickeln moderne, responsive und rechtssichere Websites für Unternehmen, die im digitalen Raum nachhaltig wachsen möchten. Unsere Lösungen sind individuell zugeschnitten und basieren auf den konkreten Anforderungen und Zielen unserer Kundinnen und Kunden.
 
-- Datenschutzgrundverordnung (DSGVO)
-- Barrierefreiheit (A11y)
-- Einsatz grüner Technologien für statische Webseiten (SSG).
+Unsere Webseiten erfüllen höchste technische und rechtliche Standards nach deutscher und europäischer Gesetzgebung, insbesondere:
 
-Auf Kundenwunsch erstellen wir Websites in verschiedenen Sprachen. Dabei achten wir darauf, dass auch hieroglyphische Schriftzeichen sowie Schreibrichtungen von rechts nach links berücksichtigt werden.
+- Datenschutzgrundverordnung (DSGVO / GDPR)
+- Barrierefreiheit (A11y) gemäß WCAG und BITV 2.0
+- Nachhaltige Webtechnologien durch statische Website-Generierung (SSG)
+- Suchmaschinenoptimierung (SEO) nach aktuellen Standards
+- Responsives Design für alle Bildschirmgrößen und Endgeräte (iOS, Android)
+
+Auf Wunsch realisieren wir mehrsprachige Websites – inklusive Unterstützung für Sonderzeichen, komplexe Schriftsysteme (z. B. Chinesisch, Arabisch) und rechts-nach-links-Lesrichtungen.
