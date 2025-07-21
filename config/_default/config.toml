@@ -31,7 +31,10 @@ facebookLink = "https://www.facebook.com/plus360"
 [languages]
 [languages.de]
 weight = 1
-[languages.en]
-weight = 2
+languageName = 'Deutsch'
+# [languages.en]
+# weight = 2
+# languageName = 'English'
 [languages.ru]
 weight = 3
+languageName = 'Русский'
