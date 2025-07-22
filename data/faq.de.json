@@ -1,0 +1,158 @@
+[
+  {
+    "order": 10,
+    "category": "Allgemeine Fragen",
+    "q": "Arbeiten Sie auch an Webseiten, die Sie nicht selbst erstellt haben?",
+    "a": "Ja, absolut. Das ist unser Spezialgebiet. Wir sind darauf ausgerichtet, bestehende Webseiten zu übernehmen, zu analysieren und professionell zu betreuen. Wir machen uns mit dem Code und der Struktur vertraut, um eine nahtlose und effiziente Unterstützung zu gewährleisten."
+  },
+  {
+    "order": 20,
+    "category": "Allgemeine Fragen",
+    "q": "Für welche Arten von Unternehmen und Webseiten bieten Sie Support an?",
+    "a": "Wir unterstützen eine breite Palette von Webseiten, darunter Unternehmens-Websites, Portfolios, Blogs und kleinere E-Commerce-Shops. Unsere Kunden sind typischerweise kleine und mittelständische Unternehmen (KMU), Selbstständige und Agenturen, die eine zuverlässige technische Betreuung für ihre Projekte benötigen."
+  },
+  {
+    "order": 30,
+    "category": "Allgemeine Fragen",
+    "q": "Wie beginnen wir die Zusammenarbeit?",
+    "a": "Der erste Schritt ist ein kostenloses und unverbindliches Erstgespräch. Darin besprechen wir Ihre Webseite, Ihre Ziele und Herausforderungen. Anschließend erhalten Sie von uns eine Einschätzung und ein transparentes Angebot für die nächsten Schritte oder ein passendes Servicepaket."
+  },
+  {
+    "order": 40,
+    "category": "Allgemeine Fragen",
+    "q": "Wie übermittle ich Aufgaben und verfolge deren Fortschritt?",
+    "a": "Sie können uns Aufgaben einfach per E-Mail oder über unser Kundenportal senden. Jede Anfrage wird in unserem System erfasst, Sie erhalten eine Eingangsbestätigung und eine geschätzte Bearbeitungszeit. Wir halten Sie proaktiv über alle wichtigen Schritte auf dem Laufenden."
+  },
+  {
+    "order": 50,
+    "category": "Allgemeine Fragen",
+    "q": "Welche Zugangsdaten benötigen Sie für die Arbeit an meiner Seite?",
+    "a": "In der Regel benötigen wir einen Administrator-Zugang zu Ihrem CMS (z.B. WordPress) und einen FTP- oder SSH-Zugang zu Ihrem Webserver. Alle Zugangsdaten werden bei uns sicher und verschlüsselt gespeichert."
+  },
+  {
+    "order": 60,
+    "category": "Leistungen & Preise",
+    "q": "Was kostet die Pflege und Weiterentwicklung meiner Website?",
+    "a": "Die Kosten sind flexibel und richten sich nach Ihren Bedürfnissen. Wir bieten monatliche Servicepakete für regelmäßige Wartung und Sicherheit sowie eine stundenbasierte Abrechnung für einzelne, unregelmäßige Aufgaben. Eine detaillierte Übersicht finden Sie in unserer [Preisliste](/price)."
+  },
+  {
+    "order": 70,
+    "category": "Leistungen & Preise",
+    "q": "Gibt es eine Mindestvertragslaufzeit?",
+    "a": "Nein. Wir glauben an Flexibilität. Unsere Servicepakete sind monatlich kündbar. Unser Ziel ist es, Sie durch erstklassigen Service und Zuverlässigkeit zu binden, nicht durch lange Verträge."
+  },
+  {
+    "order": 80,
+    "category": "Leistungen & Preise",
+    "q": "Was ist in einem typischen Wartungspaket enthalten?",
+    "a": "Ein Standardpaket umfasst typischerweise: Regelmäßige Updates des CMS und der Plugins, tägliche oder wöchentliche Backups, Sicherheits-Scans, Performance-Monitoring und eine bestimmte Anzahl von Support-Stunden für kleine inhaltliche Änderungen oder Beratungen. Die genauen Leistungen variieren je nach gewähltem Paket."
+  },
+  {
+    "order": 90,
+    "category": "Leistungen & Preise",
+    "q": "Was passiert, wenn ich mehr Support benötige, als in meinem Paket enthalten ist?",
+    "a": "Kein Problem. Zusätzlicher Aufwand, der über die im Paket enthaltenen Stunden hinausgeht, wird transparent nach unserem regulären Stundensatz abgerechnet. Wir informieren Sie selbstverständlich immer, bevor zusätzliche Kosten entstehen."
+  },
+  {
+    "order": 100,
+    "category": "Leistungen & Preise",
+    "q": "Bieten Sie auch ein komplettes Redesign für bestehende Webseiten an?",
+    "a": "Ja, neben der laufenden Betreuung bieten wir auch komplette Redesigns an. Wenn Ihre Webseite veraltet ist und eine grundlegende Modernisierung benötigt, können wir ein neues, frisches Design entwickeln und es auf der bestehenden technischen Basis implementieren."
+  },
+  {
+    "order": 110,
+    "category": "Technische Fragen",
+    "q": "Meine Webseite ist sehr langsam. Können Sie helfen?",
+    "a": "Ja, die Optimierung der Ladegeschwindigkeit (Performance) ist eine unserer Kernkompetenzen. Wir führen eine detaillierte Analyse durch, um Engpässe zu identifizieren (z.B. große Bilder, ineffizienter Code, langsame Datenbankabfragen) und setzen gezielte Maßnahmen zur Beschleunigung Ihrer Seite um."
+  },
+  {
+    "order": 120,
+    "category": "Technische Fragen",
+    "q": "Meine Webseite wurde gehackt. Was nun?",
+    "a": "Bleiben Sie ruhig und kontaktieren Sie uns umgehend. Wir bieten einen Notfall-Service zur Bereinigung von gehackten Webseiten. Wir isolieren die Seite, entfernen die Schadsoftware, analysieren und schließen die Sicherheitslücke und implementieren zusätzliche Schutzmaßnahmen, um zukünftige Angriffe zu erschweren."
+  },
+  {
+    "order": 130,
+    "category": "Technische Fragen",
+    "q": "Wie stellen Sie sicher, dass Updates meine Seite nicht beschädigen?",
+    "a": "Sicherheit geht vor. Bei größeren Updates testen wir diese zuerst in einer sicheren Testumgebung (Staging-Umgebung), die eine Kopie Ihrer Live-Seite ist. Erst wenn wir sicher sind, dass alles einwandfrei funktioniert, spielen wir die Updates auf Ihrer Webseite ein."
+  },
+  {
+    "order": 140,
+    "category": "Technische Fragen",
+    "q": "Warum sollte ich Updates nicht einfach selbst automatisch durchführen?",
+    "a": "Automatische Updates können praktisch sein, bergen aber Risiken. Manchmal sind Plugins oder Themes nicht miteinander kompatibel, was zu Fehlern oder einem kompletten Ausfall der Seite führen kann. Unsere manuelle, kontrollierte Vorgehensweise mit Tests minimiert dieses Risiko."
+  },
+  {
+    "order": 150,
+    "category": "Technische Fragen",
+    "q": "Wie sieht Ihre Backup-Strategie aus?",
+    "a": "Wir erstellen regelmäßig vollständige Backups Ihrer Webseite (Dateien und Datenbank). Diese werden sicher auf externen, von Ihrer Webseite unabhängigen Servern gespeichert. Je nach Paket geschieht dies täglich oder wöchentlich, und wir bewahren mehrere Versionen auf, um im Notfall auf den gewünschten Stand zurückgreifen zu können."
+  },
+  {
+    "order": 160,
+    "category": "Technische Fragen",
+    "q": "Helfen Sie auch beim Umzug meiner Webseite zu einem neuen Hoster?",
+    "a": "Ja, wir bieten einen kompletten Migrations-Service an. Wir kümmern uns um den reibungslosen Umzug Ihrer Webseite, Ihrer Datenbanken und E-Mail-Postfächer und sorgen dafür, dass die Ausfallzeit minimal ist."
+  },
+  {
+    "order": 170,
+    "category": "Rechtliche Themen (DSGVO & Co.)",
+    "q": "Wie stellen Sie sicher, dass meine Website DSGVO-konform ist?",
+    "a": "Wir führen einen technischen Check durch und implementieren die notwendigen Elemente: eine korrekte Datenschutzerklärung, ein anpassbares Cookie-Consent-Banner, SSL-Verschlüsselung für alle Datenübertragungen und die datenschutzkonforme Einbindung von externen Diensten wie Google Maps oder Analyse-Tools."
+  },
+  {
+    "order": 180,
+    "category": "Rechtliche Themen (DSGVO & Co.)",
+    "q": "Schließen Sie einen Auftragsverarbeitungsvertrag (AV-Vertrag) ab?",
+    "a": "Ja, selbstverständlich. Wenn wir im Rahmen unserer Tätigkeit Zugriff auf personenbezogene Daten haben, schließen wir mit Ihnen einen rechtssicheren AV-Vertrag gemäß Art. 28 DSGVO ab. Das gibt Ihnen die notwendige rechtliche Sicherheit."
+  },
+  {
+    "order": 190,
+    "category": "Rechtliche Themen (DSGVO & Co.)",
+    "q": "Wer ist für das Impressum und die Datenschutzerklärung verantwortlich?",
+    "a": "Als Webseitenbetreiber sind Sie rechtlich für den Inhalt von Impressum und Datenschutzerklärung verantwortlich. Wir übernehmen keine Rechtsberatung, aber wir unterstützen Sie bei der korrekten technischen Integration der von Ihnen oder Ihrem Anwalt bereitgestellten Texte."
+  },
+  {
+    "order": 200,
+    "category": "Begriffe & Abkürzungen",
+    "q": "Was ist ein CMS?",
+    "a": "CMS steht für **Content Management System**. Es ist eine Software, die es Ihnen ermöglicht, Inhalte (Texte, Bilder) auf Ihrer Webseite einfach zu bearbeiten, ohne Programmierkenntnisse zu benötigen. Bekannte Beispiele sind WordPress, TYPO3 oder Joomla!."
+  },
+  {
+    "order": 210,
+    "category": "Begriffe & Abkürzungen",
+    "q": "Was bedeutet DSGVO?",
+    "a": "DSGVO steht für **Datenschutz-Grundverordnung**. Es ist ein EU-Gesetz, das die Verarbeitung von personenbezogenen Daten regelt. Jede Webseite, die von EU-Bürgern besucht wird, muss diese strengen Regeln zum Schutz der Nutzerdaten einhalten."
+  },
+  {
+    "order": 220,
+    "category": "Begriffe & Abkürzungen",
+    "q": "Was ist WCAG oder A11y?",
+    "a": "WCAG steht für **Web Content Accessibility Guidelines**. Es sind die international anerkannten Richtlinien für barrierefreies Webdesign. **A11y** ist eine Abkürzung für Accessibility (Barrierefreiheit). Ziel ist es, Webseiten für alle Menschen, auch solche mit Behinderungen, nutzbar zu machen."
+  },
+  {
+    "order": 230,
+    "category": "Begriffe & Abkürzungen",
+    "q": "Was bedeutet SEO?",
+    "a": "SEO steht für **Search Engine Optimization** (Suchmaschinenoptimierung). Es umfasst alle Maßnahmen, die dazu dienen, die Sichtbarkeit einer Webseite in den unbezahlten Suchergebnissen von Suchmaschinen wie Google zu verbessern."
+  },
+  {
+    "order": 240,
+    "category": "Begriffe & Abkürzungen",
+    "q": "Was ist das BITV?",
+    "a": "BITV steht für **Barrierefreie-Informationstechnik-Verordnung**. Es ist die deutsche Umsetzung der EU-Richtlinien zur Barrierefreiheit und legt die Standards für die Webseiten öffentlicher Stellen in Deutschland fest. Es orientiert sich stark an den WCAG."
+  },
+  {
+    "order": 250,
+    "category": "Begriffe & Abkürzungen",
+    "q": "Was ist ein Impressum?",
+    "a": "Das Impressum ist eine in Deutschland gesetzlich vorgeschriebene Anbieterkennzeichnung auf Webseiten. Es muss bestimmte Informationen über den Betreiber der Seite enthalten, wie Name, Adresse und Kontaktinformationen, um Transparenz und rechtliche Klarheit zu schaffen."
+  },
+  {
+    "order": 260,
+    "category": "Begriffe & Abkürzungen",
+    "q": "Was ist eine Staging-Umgebung?",
+    "a": "Eine Staging-Umgebung (oder Testumgebung) ist eine 1-zu-1-Kopie Ihrer Live-Webseite, die aber nicht öffentlich zugänglich ist. Hier können wir sicher neue Funktionen, Designs oder Updates testen, ohne Ihre echte Webseite zu beeinträchtigen. Erst nach erfolgreichem Test werden die Änderungen live geschaltet."
+  }
+]
