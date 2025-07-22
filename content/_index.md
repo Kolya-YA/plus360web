@@ -16,13 +16,29 @@ menu:
 
 Wir bieten einen umfassenden Service für Ihre Webseite, damit sie immer modern, schnell und sicher bleibt.
 
-* **Content-Pflege:** Wir fügen zeitnah Texte, Bilder, Nachrichten oder Produkte hinzu oder ändern diese.
-* **Aktualisierung von Kontaktdaten:** Wir ändern Adressen, Telefonnummern und Öffnungszeiten.
-* **Technische Wartung:** Regelmäßige Updates von CMS, Plugins und Themes für einen stabilen und sicheren Betrieb.
-* **Reparatur & Weiterentwicklung:** Wir beheben Fehler, verbessern bestehende Funktionen oder fügen neue hinzu.
-* **Responsive Design:** Wir sorgen dafür, dass Ihre Webseite auf allen Geräten – von Smartphones bis zu großen Monitoren – perfekt aussieht.
-* **DSGVO-Konformität:** Wir stellen sicher, dass Ihre Webseite den europäischen Datenschutzbestimmungen entspricht.
-* **Barrierefreiheit (Accessibility):** Wir gewährleisten die Konformität Ihrer Webseite mit deutschen und europäischen Gesetzen zur Barrierefreiheit (WCAG & BITV).
+{{< card-gallery sprite="service" iconSize="36" >}}
+  {{< card title="Content-Pflege" icon="content-update" >}}
+  Wir fügen zeitnah Texte, Bilder, Nachrichten oder Produkte hinzu oder ändern diese.
+  {{< /card >}}
+  {{< card title="Aktualisierung von Kontaktdaten" icon="contact-update" >}}
+  Wir ändern Adressen, Telefonnummern und Öffnungszeiten.
+  {{< /card >}}
+  {{< card title="Technische Wartung" icon="technical-support" >}}
+  Regelmäßige Updates von CMS, Plugins und Themes für einen stabilen und sicheren Betrieb.
+  {{< /card >}}
+  {{< card title="Reparatur & Weiterentwicklung" icon="repair-improvement" >}}
+  Wir beheben Fehler, verbessern bestehende Funktionen oder fügen neue hinzu.
+  {{< /card >}}
+  {{< card title="Responsive Design" icon="responsive-design" >}}
+  Wir sorgen dafür, dass Ihre Webseite auf allen Geräten – von Smartphones bis zu großen Monitoren – perfekt aussieht.
+  {{< /card >}}
+  {{< card title="DSGVO-Konformität" icon="gdpr-compliance" >}}
+  Wir stellen sicher, dass Ihre Webseite den europäischen Datenschutzbestimmungen entspricht.
+  {{< /card >}}
+  {{< card title="Barrierefreiheit (Accessibility)" icon="web-accessibility" >}}
+  Wir gewährleisten die Konformität Ihrer Webseite mit deutschen und europäischen Gesetzen zur Barrierefreiheit (WCAG & BITV).
+  {{< /card >}}
+{{< /card-gallery >}}
 
 Wir bieten alle unsere Services zu fairen und günstige [Preisen]({{< relref "price" >}}) an.
 
@@ -30,11 +46,23 @@ Wir bieten alle unsere Services zu fairen und günstige [Preisen]({{< relref "pr
 
 ## Warum Plus360?
 
-* **Zuverlässigkeit:** Ihre Webseite unterliegt einer ständigen professionellen Überwachung.
-* **Expertise:** Tiefgehendes Wissen im Bereich der deutschen und europäischen Gesetzgebung (DSGVO, Barrierefreiheit).
-* **Schnelligkeit:** Wir reagieren schnell auf Ihre Anfragen und setzen Änderungen zügig um.
-* **Transparenz:** Klare Berichterstattung über die geleistete Arbeit.
-* **Zeitersparnis:** Sie konzentrieren sich auf Ihr Geschäft, wir uns auf Ihre Webseite.
+{{< card-gallery sprite="features" >}}
+  {{< card title="Zuverlässigkeit" icon="reliability" >}}
+  Ihre Webseite unterliegt einer ständigen professionellen Überwachung.
+  {{< /card >}}
+  {{< card title="Expertise" icon="expertise" >}}
+  Tiefgehendes Wissen im Bereich der deutschen und europäischen Gesetzgebung (DSGVO, Barrierefreiheit).
+  {{< /card >}}
+  {{< card title="Geschwindigkeit" icon="speed" >}}
+  Wir reagieren schnell auf Ihre Anfragen und setzen Änderungen zügig um.
+  {{< /card >}}
+  {{< card title="Transparenz" icon="transparency" >}}
+  Klare Berichterstattung über die geleistete Arbeit.
+  {{< /card >}}
+  {{< card title="Zeitersparnis" icon="time-saving" >}}
+  Sie konzentrieren sich auf Ihr Geschäft, wir uns auf Ihre Webseite.
+  {{< /card >}}
+{{< /card-gallery >}}
 
 ## So arbeiten wir
 
