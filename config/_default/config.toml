@@ -7,7 +7,7 @@ theme = "theme-plus360"
 enableRobotsTXT = true
 disableKinds = ["taxonomy", "term"]
 
-title = "plus360 — Barrierefreie Website"
+title = "plus360 Webwerkstatt"
 
 [markup]
 [markup.goldmark]

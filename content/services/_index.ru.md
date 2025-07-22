@@ -1,17 +1,16 @@
 ---
 date: "2025-05-07"
-title: "Услуги"
+title: "Услуги по поддержке и обслуживанию сайтов"
+description: "Узнайте о наших комплексных услугах по поддержке сайтов: от обновления контента и технического обслуживания до адаптации, GDPR и веб-доступности"
+subtitle: "Комплексная Забота о Вашем Сайте"
 url: "services"
-subtitle: "Unsere Dienstleistungen"
 menu:
   top:
     weight: 20
+    name: "Услуги"
 ---
 
-Wir bieten Ihnen die Erstellung von modernen Webseiten für Ihr Unternehmen, die stets den Anforderungen und Wünschen unserer Kunden entsprechen und somit zur selbstbewussten Entwicklung des Unternehmens beitragen. Unsere Webseiten erfüllen die strengsten und modernsten Anforderungen der deutschen und europäischen Gesetzgebung, wie z.B:
 
-- Datenschutzgrundverordnung (DSGVO)
-- Barrierefreiheit (A11y)
-- Einsatz grüner Technologien für statische Webseiten (SSG).
+В современном цифровом мире сайт — это не просто визитная карточка, а ключевой актив для бизнеса. Он требует постоянного внимания, чтобы оставаться актуальным, быстрым, безопасным и соответствовать постоянно меняющимся требованиям законодательства и технологий. **Plus360** предлагает полный спектр услуг по поддержке и развитию вашего веб-ресурса, позволяя вам сосредоточиться на главном — на вашем бизнесе.
 
-Auf Kundenwunsch erstellen wir Websites in verschiedenen Sprachen. Dabei achten wir darauf, dass auch hieroglyphische Schriftzeichen sowie Schreibrichtungen von rechts nach links berücksichtigt werden.
+Мы работаем с самыми популярными **CMS**, включая **WordPress, TYPO3, Joomla!, Contao** и **Drupal**, и готовы взять на себя как рутинные задачи по обновлению контента, так и сложные технические работы. Наша цель — обеспечить бесперебойную и эффективную работу вашего сайта, защитить его от угроз и помочь ему расти вместе с вашей компанией. Ниже представлен обзор наших ключевых направлений работы. Для получения более подробной информации перейдите на страницу соответствующей услуги.
