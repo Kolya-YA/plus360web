@@ -1,20 +1,11 @@
 ---
-date: "2023-11-01"
-title: "Preise — Alpha version"
-type: "price"
+date: "2025-07-24"
+title: "Preise für zuverlässigen Website-Support"
+description: "Wählen Sie den passenden Plan für die Wartung Ihrer Webseite oder nutzen Sie unsere stundenbasierten Dienste für flexible Anpassungen. Keine versteckten Kosten."
 menu:
   top:
     weight: 40
     name: "Preise"
-    idetifier: "preise"
-
-pages: "einzigartige Seiten"
-contactForm: "Kontaktformular"
-mobileVersion: "mobile Version"
-pageSpeed: "Google PageSpeed > 90"
-cta: "Jetzt anfragen"
-addon_header: "Hinweise zum Preis"
-add_on_notes: "**Sprachversionen.** Für jede Sprache zusätzlich € 250,—."
 ---
 
-Bitte rufen Sie später an oder hinterlassen Sie eine [Nachricht](mailto:{{< param email >}}).
+Ihr Online-Auftritt ist ein wichtiges Gut, das ständige Pflege benötigt. Wir wissen, dass jedes Unternehmen individuelle Anforderungen und Budgets hat. Deshalb bieten wir zwei flexible Modelle der Zusammenarbeit an: **monatliche Pläne** für umfassenden und proaktiven Schutz Ihrer Webseite und **stundenbasierte Abrechnung** für die Lösung spezifischer, einmaliger Aufgaben. Unser Ziel ist es, Ihnen maximale Klarheit und Vorhersehbarkeit der Kosten zu bieten, damit Sie sich auf Ihr Geschäft konzentrieren können, in der Gewissheit, dass Ihre Online-Präsenz zuverlässig ist.

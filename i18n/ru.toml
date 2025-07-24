@@ -1,1 +1,158 @@
 langswitcher = "Выбор языка"
+
+# Pricing page
+# General Page Titles
+[monthly_title]
+other = "Ваше цифровое спокойствие"
+[monthly_subtitle]
+other = "Проактивная забота о вашем сайте. Предотвращаем проблемы до их появления."
+
+[hourly_title]
+other = "Гибкая помощь, когда она нужна"
+[hourly_subtitle]
+other = "Для конкретных задач: от срочного ремонта до плановых доработок."
+
+[examples_title]
+other = "Примеры задач с почасовой оплатой"
+
+[packages_title]
+other = "Пакеты часов для экономии"
+[packages_subtitle]
+other = "Планируете несколько доработок? Сэкономьте, купив пакет часов заранее."
+
+[not_included_title]
+other = "Что не входит в стоимость"
+
+[cta_title]
+other = "Не уверены, что выбрать?"
+[cta_subtitle]
+other = "Каждый сайт уникален. Если вы не знаете, какой план или услуга лучше всего подходят для ваших целей, свяжитесь с нами. Мы проведем бесплатный экспресс-анализ вашего сайта и предложим наилучшее решение — без каких-либо обязательств с вашей стороны."
+[cta_button]
+other = "Получить бесплатную консультацию"
+[cta_link_text]
+other = "Или посмотрите ответы на частые вопросы в нашем FAQ."
+
+# Plan Details
+[plan_basis_name]
+other = "Базовый"
+[plan_optimal_name]
+other = "Оптимальный"
+[plan_premium_name]
+other = "Премиум"
+
+[plan_basis_ideal_for]
+other = "Для сайтов-визиток, блогов, портфолио"
+[plan_optimal_ideal_for]
+other = "Для активных бизнес-сайтов и малого e-commerce"
+[plan_premium_ideal_for]
+other = "Для критически важных проектов и интернет-магазинов"
+
+[popular_plan_text]
+other = "Самый популярный план"
+
+# Features
+[feature_updates_monthly]
+other = "Обновления: Раз в месяц"
+[feature_updates_weekly]
+other = "Обновления: Еженедельно"
+[feature_updates_staging]
+other = "Обновления: Еженедельно с тестом на Staging-копии"
+[feature_backup_weekly]
+other = "Резервное копирование: Еженедельно (4 копии)"
+[feature_backup_daily]
+other = "Резервное копирование: Ежедневно (30 копий)"
+[feature_backup_daily_plus]
+other = "Резервное копирование: Ежедневно (30 копий, внешнее хранение)"
+[feature_security_standard]
+other = "Сканирование безопасности: Стандартное"
+[feature_security_extended]
+other = "Сканирование безопасности: Расширенное"
+[feature_security_pro]
+other = "Сканирование безопасности: Расширенное с анализом логов"
+[feature_uptime_5min]
+other = "Мониторинг доступности: Каждые 5 мин"
+[feature_uptime_1min]
+other = "Мониторинг доступности: Каждую минуту"
+[feature_hours_1]
+other = "1 час/мес. на мелкие правки"
+[feature_hours_3]
+other = "3 часа/мес. на мелкие правки"
+[feature_hours_5]
+other = "5 часов/мес. на мелкие правки"
+[feature_support_standard]
+other = "Время реакции: < 24 часов"
+[feature_support_responsive]
+other = "Время реакции: < 12 часов"
+[feature_support_priority]
+other = "Время реакции: < 8 часов (приоритет)"
+[feature_report_standard]
+other = "Ежемесячный отчет: Краткий"
+[feature_report_detailed]
+other = "Ежемесячный отчет: Детальный"
+[feature_report_pro]
+other = "Ежемесячный отчет: Детальный с рекомендациями"
+
+# Hourly Rate
+[hourly_rate_text]
+other = "/ час"
+
+# Task Examples
+[task_diagnostics_name]
+other = "Диагностика проблемы"
+[task_diagnostics_desc]
+other = "Анализ причин медленной работы сайта или конкретной ошибки."
+[task_plugin_setup_name]
+other = "Установка плагина"
+[task_plugin_setup_desc]
+other = "Интеграция нового плагина и его базовая настройка."
+[task_form_repair_name]
+other = "Ремонт контактной формы"
+[task_form_repair_desc]
+other = "Исправление ошибок, из-за которых не приходят письма с сайта."
+[task_css_tweaks_name]
+other = "Небольшие CSS-правки"
+[task_css_tweaks_desc]
+other = "Изменение цветов, шрифтов, отступов на одной или нескольких страницах."
+[task_malware_cleanup_name]
+other = "Очистка от вирусов (стандартная)"
+[task_malware_cleanup_desc]
+other = "Удаление вредоносного кода с сайта и обновление систем безопасности."
+[task_consulting_name]
+other = "Консультация"
+[task_consulting_desc]
+other = "Ответы на ваши вопросы по сайту, рекомендации по улучшению."
+
+# Estimates
+[estimate_1_2_hours]
+other = "1-2 часа"
+[estimate_1_3_hours]
+other = "1-3 часа"
+[estimate_from_1_hour]
+other = "от 1 часа"
+[estimate_from_4_6_hours]
+other = "от 4-6 часов"
+[estimate_1_hour]
+other = "1 час"
+
+# Hour Packages
+[package_5_hours]
+other = "Пакет на 5 часов"
+[package_10_hours]
+other = "Пакет на 10 часов"
+[package_20_hours]
+other = "Пакет на 20 часов"
+
+[discount_5_percent]
+other = "(скидка 5%)"
+[discount_10_percent]
+other = "(скидка 10%)"
+[discount_15_percent]
+other = "(скидка 15%)"
+
+# Not Included Items
+[not_included_item_1]
+other = "Стоимость платных плагинов, тем или лицензий."
+[not_included_item_2]
+other = "Создание контента (написание текстов, создание графики)."
+[not_included_item_3]
+other = "Юридические консультации."

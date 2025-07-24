@@ -1,0 +1,117 @@
+{
+  "currency_symbol": "€",
+  "monthly_plans": {
+    "title_key": "monthly_title",
+    "subtitle_key": "monthly_subtitle",
+    "plans": [
+      {
+        "id": "basis",
+        "price": "49",
+        "popular": false,
+        "features": [
+          "updates_monthly",
+          "backup_weekly",
+          "security_standard",
+          "report_standard",
+          "hours_1",
+          "support_standard"
+        ]
+      },
+      {
+        "id": "optimal",
+        "price": "99",
+        "popular": true,
+        "features": [
+          "updates_weekly",
+          "backup_daily",
+          "security_extended",
+          "uptime_5min",
+          "hours_3",
+          "support_responsive",
+          "report_detailed"
+        ]
+      },
+      {
+        "id": "premium",
+        "price": "149",
+        "popular": false,
+        "features": [
+          "updates_staging",
+          "backup_daily_plus",
+          "security_pro",
+          "uptime_1min",
+          "hours_5",
+          "support_priority",
+          "report_pro"
+        ]
+      }
+    ]
+  },
+  "hourly_work": {
+    "title_key": "hourly_title",
+    "subtitle_key": "hourly_subtitle",
+    "rate": "75",
+    "rate_key": "hourly_rate_text"
+  },
+  "task_examples": {
+    "title_key": "examples_title",
+    "tasks": [
+      {
+        "id": "diagnostics",
+        "estimate_key": "estimate_1_2_hours"
+      },
+      {
+        "id": "plugin_setup",
+        "estimate_key": "estimate_1_3_hours"
+      },
+      {
+        "id": "form_repair",
+        "estimate_key": "estimate_1_2_hours"
+      },
+      {
+        "id": "css_tweaks",
+        "estimate_key": "estimate_from_1_hour"
+      },
+      {
+        "id": "malware_cleanup",
+        "estimate_key": "estimate_from_4_6_hours"
+      },
+      {
+        "id": "consulting",
+        "estimate_key": "estimate_1_hour"
+      }
+    ]
+  },
+  "hour_packages": {
+    "title_key": "packages_title",
+    "subtitle_key": "packages_subtitle",
+    "packages": [
+      {
+        "name_key": "package_5_hours",
+        "discount_key": "discount_5_percent"
+      },
+      {
+        "name_key": "package_10_hours",
+        "discount_key": "discount_10_percent"
+      },
+      {
+        "name_key": "package_20_hours",
+        "discount_key": "discount_15_percent"
+      }
+    ]
+  },
+  "not_included": {
+    "title_key": "not_included_title",
+    "items": [
+      "not_included_item_1",
+      "not_included_item_2",
+      "not_included_item_3"
+    ]
+  },
+  "cta": {
+    "title_key": "cta_title",
+    "subtitle_key": "cta_subtitle",
+    "button_key": "cta_button",
+    "link_key": "cta_link_text"
+  }
+}
