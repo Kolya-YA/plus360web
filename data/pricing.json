@@ -15,7 +15,10 @@
           "report_standard",
           "hours_1",
           "support_standard"
-        ]
+        ],
+        "sku": "plus360-plan-basis",
+        "full_name_key": "plan_basis_full_name",
+        "full_description_key": "plan_basis_full_description"
       },
       {
         "id": "optimal",
@@ -29,7 +32,10 @@
           "hours_3",
           "support_responsive",
           "report_detailed"
-        ]
+        ],
+        "sku": "plus360-plan-optimal",
+        "full_name_key": "plan_optimal_full_name",
+        "full_description_key": "plan_optimal_full_description"
       },
       {
         "id": "premium",
@@ -43,7 +49,10 @@
           "hours_5",
           "support_priority",
           "report_pro"
-        ]
+        ],
+        "sku": "plus360-plan-premium",
+        "full_name_key": "plan_premium_full_name",
+        "full_description_key": "plan_premium_full_description"
       }
     ]
   },
@@ -51,7 +60,10 @@
     "title_key": "hourly_title",
     "subtitle_key": "hourly_subtitle",
     "rate": "75",
-    "rate_key": "hourly_rate_text"
+    "rate_key": "hourly_rate_text",
+    "sku": "plus360-hourly-service",
+    "full_name_key": "hourly_service_full_name",
+    "full_description_key": "hourly_service_full_description"
   },
   "task_examples": {
     "title_key": "examples_title",
