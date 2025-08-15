@@ -1,6 +1,6 @@
 ---
 date: "2023-10-13"
-title: "Plus360 Webwerkstatt"
+title: "Plus360 Webatelier & Webwerkstatt"
 subtitle: "Die 360-Grad-Betreuung für Ihre Webseite"
 description: "Professionelle Wartung, Aktualisierung und Weiterentwicklung Ihrer Webseite. Wir kümmern uns um die Technik, damit Sie sich auf Ihr Geschäft konzentrieren können."
 menu:
