@@ -16,29 +16,29 @@ menu:
 
 Мы предлагаем комплексное обслуживание вашего сайта, чтобы он всегда оставался современным, быстрым и безопасным.
 
-{{< card-gallery sprite="service" iconSize="36" >}}
-  {{< card title="Актуализация контента" icon="content-update" >}}
+{{< cards-grid  sprite="service" iconSize="36" >}}
+  {{< icon-card title="Актуализация контента" icon="content-update" >}}
   Оперативно добавим или изменим тексты, изображения, новости, товары.
-  {{< /card >}}
-  {{< card title="Обновление контактов" icon="contact-update" >}}
+  {{< /icon-card >}}
+  {{< icon-card title="Обновление контактов" icon="contact-update" >}}
   Изменим адреса, телефоны, время работы.
-  {{< /card >}}
-  {{< card title="Техническая поддержка" icon="technical-support" >}}
+  {{< /icon-card >}}
+  {{< icon-card title="Техническая поддержка" icon="technical-support" >}}
   Регулярное обновление системы сайта, плагинов и тем для стабильной и безопасной работы.
-  {{< /card >}}
-  {{< card title="Ремонт и доработка" icon="repair-improvement" >}}
+  {{< /icon-card >}}
+  {{< icon-card title="Ремонт и доработка" icon="repair-improvement" >}}
   Исправим ошибки, доработаем существующий функционал или добавим новый.
-  {{< /card >}}
-  {{< card title="Адаптивный дизайн" icon="responsive-design" >}}
+  {{< /icon-card >}}
+  {{< icon-card title="Адаптивный дизайн" icon="responsive-design" >}}
   Сделаем так, чтобы ваш сайт отлично выглядел на любых устройствах — от смартфонов до больших мониторов.
-  {{< /card >}}
-  {{< card title="Соответствие GDPR" icon="gdpr-compliance" >}}
+  {{< /icon-card >}}
+  {{< icon-card title="Соответствие GDPR" icon="gdpr-compliance" >}}
   Приведем сайт в соответствие с европейскими нормами защиты персональных данных.
-  {{< /card >}}
-  {{< card title="Веб-доступность" icon="web-accessibility" >}}
+  {{< /icon-card >}}
+  {{< icon-card title="Веб-доступность" icon="web-accessibility" >}}
   Обеспечим соответствие вашего сайта немецким и европейским законам о доступности для людей с ограниченными возможностями (WCAG & BITV).
-  {{< /card >}}
-{{< /card-gallery >}}
+  {{< /icon-card >}}
+{{< /cards-grid  >}}
 
 Мы предлагаем все наши услуги по справедливым и доступным [ценам]({{% relref path="price" lang="de" %}}).
 
@@ -46,23 +46,23 @@ menu:
 
 ## Почему выбирают Plus360?
 
-{{< card-gallery sprite="features" >}}
-  {{< card title="Надежность" icon="reliability" >}}
+{{< cards-grid  sprite="features" >}}
+  {{< icon-card title="Надежность" icon="reliability" >}}
   Ваш сайт под постоянным профессиональным присмотром.
-  {{< /card >}}
-  {{< card title="Экспертиза" icon="expertise" >}}
+  {{< /icon-card >}}
+  {{< icon-card title="Экспертиза" icon="expertise" >}}
   Глубокие знания в области немецкого и европейского законодательства (GDPR, Accessibility).
-  {{< /card >}}
-  {{< card title="Скорость" icon="speed" >}}
+  {{< /icon-card >}}
+  {{< icon-card title="Скорость" icon="speed" >}}
   Быстро реагируем на ваши запросы и вносим правки.
-  {{< /card >}}
-  {{< card title="Прозрачность" icon="transparency" >}}
+  {{< /icon-card >}}
+  {{< icon-card title="Прозрачность" icon="transparency" >}}
   Понятная отчетность о проделанной работе.
-  {{< /card >}}
-  {{< card title="Экономия вашего времени" icon="time-saving" >}}
+  {{< /icon-card >}}
+  {{< icon-card title="Экономия вашего времени" icon="time-saving" >}}
   Вы занимаетесь бизнесом, мы — вашим сайтом.
-  {{< /card >}}
-{{< /card-gallery >}}
+  {{< /icon-card >}}
+{{< /cards-grid  >}}
 
 ## Как мы работаем
 
