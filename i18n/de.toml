@@ -101,7 +101,7 @@ other = "Reaktionszeit: < 24 Stunden"
 [feature_support_responsive]
 other = "Reaktionszeit: < 12 Stunden"
 [feature_support_priority]
-other = "Reaktionszeit: < 8 Stunden (Priorität)"
+other = "Reaktionszeit: <a 8 Stunden (Priorität)"
 [feature_report_standard]
 other = "Monatlicher Bericht: Kurz"
 [feature_report_detailed]
@@ -175,4 +175,33 @@ other = "Content-Erstellung (Texte, Grafiken)."
 other = "Rechtsberatung."
 
 [popular_plan_text]
-other = "Beliebtester Plan"
+    other = "Beliebtester Plan"
+
+# Contact Form
+[cf]
+name_label = "Name"
+name_placeholder = "Ihr Name"
+name_error = "Bitte geben Sie Ihren Namen ein."
+
+email_label = "E-Mail"
+email_placeholder = "name@example.de"
+email_error = "Bitte geben Sie eine gültige E-Mail ein."
+
+company_label = "Firma"
+company_placeholder = "Firmenname"
+company_error = "Der Firmenname ist zu lang."
+
+phone_label = "Telefon"
+phone_placeholder = "+49 123 4567890"
+phone_error = "Bitte geben Sie eine gültige Telefonnummer ein."
+
+message_label = "Nachricht"
+message_placeholder = "Wie können wir helfen?"
+message_error = "Bitte geben Sie eine Nachricht ein."
+
+consent_label = 'Ich stimme der Verarbeitung meiner Daten gemäß <a href="{{ . }}">Datenschutz­erklärung</a> zu.'
+consent_error = "Bitte stimmen Sie der Datenverarbeitung zu."
+
+submit_button = "Anfrage senden"
+submit_success = "Vielen Dank! Wir werden uns in Kürze bei Ihnen melden."
+submit_error = "Beim Senden des Formulars ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."

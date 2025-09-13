@@ -176,3 +176,32 @@ other = "Юридические консультации."
 
 [popular_plan_text]
 other = "Самый популярный план"
+
+# Contact Form
+[cf]
+name_label = "Имя"
+name_placeholder = "Ваше имя"
+name_error = "Пожалуйста, введите ваше имя."
+
+email_label = "E-mail"
+email_placeholder = "name@example.de"
+email_error = "Пожалуйста, введите корректный e-mail."
+
+company_label = "Компания"
+company_placeholder = "Название компании"
+company_error = "Название компании слишком длинное."
+
+phone_label = "Телефон"
+phone_placeholder = "+49 123 4567890"
+phone_error = "Пожалуйста, введите корректный номер телефона."
+
+message_label = "Сообщение"
+message_placeholder = "Чем мы можем помочь?"
+message_error = "Пожалуйста, напишите сообщение."
+
+consent_label = 'Я согласен(а) на обработку моих данных согласно <a href="{{ . }}">Политике конфиденциальности</a>.'
+consent_error = "Пожалуйста, подтвердите согласие на обработку данных."
+
+submit_button = "Отправить запрос"
+submit_success = "Спасибо! Мы свяжемся с вами в ближайшее время."
+submit_error = "При отправке формы произошла ошибка. Пожалуйста, попробуйте еще раз."
