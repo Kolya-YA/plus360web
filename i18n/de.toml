@@ -203,5 +203,9 @@ consent_label = 'Ich stimme der Verarbeitung meiner Daten gemäß <a href="{{ . 
 consent_error = "Bitte stimmen Sie der Datenverarbeitung zu."
 
 submit_button = "Anfrage senden"
-submit_success = "Vielen Dank! Wir werden uns in Kürze bei Ihnen melden."
-submit_error = "Beim Senden des Formulars ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+
+submit_success_header = "Erfolg!"
+submit_success_msg = "Vielen Dank!<br>Wir werden uns in Kürze bei Ihnen melden."
+
+submit_error_header = "Fehler!"
+submit_error_msg = "Beim Senden des Formulars ist ein Fehler aufgetreten.<br>Bitte versuchen Sie es erneut."
