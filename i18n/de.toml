@@ -1,5 +1,8 @@
 langswitcher = "Sprachwahl"
 
+[service]
+from = "ab"
+
 # General Page Titles
 [monthly_title]
 other = "Ihre digitale Gelassenheit"

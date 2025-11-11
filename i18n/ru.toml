@@ -1,5 +1,8 @@
 langswitcher = "Выбор языка"
 
+[service]
+from = "от"
+
 # General Page Titles
 [monthly_title]
 other = "Ваше цифровое спокойствие"
