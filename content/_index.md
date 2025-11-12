@@ -1,5 +1,5 @@
 ---
-date: "2023-10-13"
+date: "2025-11-11"
 title: "Plus360 Webatelier & Webwerkstatt"
 subtitle: "Die 360-Grad-Betreuung für Ihre Webseite"
 description: "Professionelle Wartung, Aktualisierung und Weiterentwicklung Ihrer Webseite. Wir kümmern uns um die Technik, damit Sie sich auf Ihr Geschäft konzentrieren können."
@@ -73,6 +73,3 @@ Wir bieten alle unsere Services zu fairen und günstige [Preisen]({{< relref "pr
 ## Bereit zu starten?
 
 Kontaktieren Sie uns noch heute, um zu besprechen, wie wir Ihrer Webseite helfen können, zu wachsen und aktuell zu bleiben.
-
-**E-Mail:** <info@plus360.eu>  
-[Kontaktformular]({{< relref "contact" >}})
