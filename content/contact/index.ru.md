@@ -10,10 +10,8 @@ menu:
   footer:
     weight: 120
     idetifier: "kontakt"
-date: "2025-09-12"
+date: "2026-03-12"
 ---
-
-Tel: **Не сейчас**. _{{< param phone >}}_
 
 E-mail: [{{< param email >}}](mailto:{{< param email >}})
 

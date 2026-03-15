@@ -1,16 +1,11 @@
 ---
-date: "2023-11-01"
-title: "Websites"
-subtitle: "Moderne Websites für Unternehmen und Projekte"
+date: "2026-03-14"
+title: "Apps"
+subtitle: "Apps für iOS, Android, FireOS usw."
 ---
 
-### Websites
+### Apps für iOS, Android, FireOS usw.
 
-Hier finden Sie eine Auswahl unserer besten Website-Projekte. Wir entwickeln moderne, schnelle und SEO-optimierte Websites für Unternehmen, Praxen und digitale Produkte.
+Wir entwickeln leistungsstarke Apps für iOS, Android und FireOS – von der Konzeption bis zur Veröffentlichung. Entdecken Sie unsere App-Referenzen für Unternehmen, Bildung und digitale Services.
 
-- [Leben in Deutschland (web version)](https://lind.plus360.eu/)
-- [Portfolio & CV](https://portfolio.plus360.eu/)
-- [Foto-Website](https://photo.plus360.eu/)
-- [Arztpraxis-Website](https://arztpraxis.plus360.eu/)
-- [Datenrettungsdienst-Website](https://headcrash.net/)
-- [Gurfoto](https://gurfoto.ru/)
+- [Leben in Deutschland (Amazon Fire TV & Fire Tablet version)](https://www.amazon.de/-/en/dp/B0GNX81DTK)
