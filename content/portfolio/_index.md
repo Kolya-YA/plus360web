@@ -1,6 +1,5 @@
 ---
-date: "2025-11-12"
-draft: true
+date: "2023-03-12"
 title: "Portfolio"
 subtitle: "Unsere Projekte für Kunden & Partner"
 menu:
