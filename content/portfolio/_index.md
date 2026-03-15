@@ -7,13 +7,7 @@ menu:
   top:
     name: "portfolio"
     weight: 30
-    idetifier: "portfolio"
+    identifier: "portfolio"
 ---
 
-Hier präsentieren wir unsere interessantesten Projekte.
-
-- [Portfolio & CV](https://portfolio.plus360.eu/)
-- [Foto-Website](https://photo.plus360.eu/)
-- [Arztpraxis-Website](https://arztpraxis.plus360.eu/)
-- [Datenrettungsdienst-Website](https://headcrash.net/)
-- [Gurfoto](https://gurfoto.ru/)
+Hier finden Sie unser Portfolio mit Webprojekten, Apps und individuellen Kundenlösungen von Plus360. Entdecken Sie ausgewählte Referenzen aus den Bereichen Webentwicklung, UX/UI-Design und digitale Produktentwicklung.

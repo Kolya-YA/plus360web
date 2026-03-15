@@ -1,12 +1,12 @@
 ---
 date: "2023-11-01"
 title: "Websites"
-subtitle: ""
+subtitle: "Moderne Websites für Unternehmen und Projekte"
 ---
 
-###  Websites
+### Websites
 
-All best _Neue Websites_ works.
+Hier finden Sie eine Auswahl unserer besten Website-Projekte. Wir entwickeln moderne, schnelle und SEO-optimierte Websites für Unternehmen, Praxen und digitale Produkte.
 
 - [Leben in Deutschland (web version)](https://lind.plus360.eu/)
 - [Portfolio & CV](https://portfolio.plus360.eu/)
