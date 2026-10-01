@@ -233,3 +233,13 @@ other = "Светлое"
 
 [theme_dark]
 other = "Тёмное"
+
+[main_navigation]
+other = "Основная навигация"
+
+[footer_navigation]
+other = "Дополнительная информация"
+
+[opens_new_tab]
+other = "откроется в новой вкладке"
+

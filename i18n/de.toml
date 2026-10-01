@@ -235,3 +235,13 @@ other = "Hell"
 
 [theme_dark]
 other = "Dunkel"
+
+[main_navigation]
+other = "Hauptnavigation"
+
+[footer_navigation]
+other = "Weitere Informationen"
+
+[opens_new_tab]
+other = "öffnet in einem neuen Tab"
+
