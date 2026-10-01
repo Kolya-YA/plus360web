@@ -221,3 +221,15 @@ other = "Вернуться наверх"
 
 [service_details]
 other = "Подробнее"
+
+[theme_label]
+other = "Оформление"
+
+[theme_system]
+other = "Как в системе"
+
+[theme_light]
+other = "Светлое"
+
+[theme_dark]
+other = "Тёмное"

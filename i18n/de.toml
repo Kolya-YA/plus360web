@@ -223,3 +223,15 @@ other = "Nach oben"
 
 [service_details]
 other = "Mehr erfahren"
+
+[theme_label]
+other = "Darstellung"
+
+[theme_system]
+other = "Systemeinstellung"
+
+[theme_light]
+other = "Hell"
+
+[theme_dark]
+other = "Dunkel"
