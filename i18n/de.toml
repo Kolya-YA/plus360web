@@ -212,3 +212,14 @@ submit_success_msg = "Vielen Dank!<br>Wir werden uns in Kürze bei Ihnen melden.
 
 submit_error_header = "Fehler!"
 submit_error_msg = "Beim Senden des Formulars ist ein Fehler aufgetreten.<br>Bitte versuchen Sie es erneut."
+[navigation_menu]
+other = "Navigationsmenü"
+
+[skip_to_content]
+other = "Zum Inhalt springen"
+
+[back_to_top]
+other = "Nach oben"
+
+[service_details]
+other = "Mehr erfahren"

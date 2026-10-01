@@ -2,9 +2,13 @@
 date: "2025-07-22"
 title: "DSGVO-Konformität für Webseiten"
 description: "Sicherstellung der Konformität Ihrer Webseite mit den DSGVO-Anforderungen. Audit, Cookie-Banner-Einrichtung, Datenschutzerklärung"
-summary: "Wir stellen die vollständige Konformität Ihrer Webseite mit der europäischen Datenschutz-Grundverordnung (**DSGVO**) sicher, um Bußgelder zu vermeiden und das Vertrauen der Nutzer zu stärken."
 weight: 50
 price_from: 500
+linkTitle: "Datenschutz"
+summary: "Wir helfen bei der technischen Umsetzung von Datenschutzanforderungen: von Formularen und Einwilligungen bis zur Einbindung externer Dienste. Vorhandene Lösungen prüfen wir und passen sie an Ihre Anforderungen an."
+icon: "gdpr-compliance"
+service_id: gdpr-compliance
+homepage: true
 ---
 
 Die **Datenschutz-Grundverordnung (DSGVO)** ist ein strenges Gesetz der Europäischen Union, das die Erhebung und Verarbeitung personenbezogener Daten von Nutzern regelt. Wenn Ihre Webseite von Nutzern aus der **EU** besucht wird, muss sie diesen Anforderungen entsprechen, unabhängig davon, wo sich Ihr Unternehmen physisch befindet. Ein Verstoß gegen die **DSGVO** kann zu **empfindlichen Geldstrafen** führen.

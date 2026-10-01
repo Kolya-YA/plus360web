@@ -210,3 +210,14 @@ submit_success_header = "Успех!"
 submit_success_msg = "Спасибо!<br>Мы свяжемся с вами в ближайшее время."
 submit_error_header = "Ошибка!"
 submit_error_msg = "При отправке формы произошла ошибка.<br>Пожалуйста, попробуйте еще раз."
+[navigation_menu]
+other = "Меню навигации"
+
+[skip_to_content]
+other = "Перейти к содержимому"
+
+[back_to_top]
+other = "Вернуться наверх"
+
+[service_details]
+other = "Подробнее"

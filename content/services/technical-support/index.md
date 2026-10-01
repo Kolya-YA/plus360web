@@ -2,9 +2,13 @@
 date: "2025-07-22"
 title: "Technische Wartung & Support für Webseiten"
 description: Technischer Support für WordPress, TYPO3, Joomla. CMS-Updates, Plugin-Wartung, Backups und Sicherheitsmonitoring.
-summary: "Regelmäßige Updates von **CMS** und Plugins, Backups und Sicherheitsüberwachung – wir sorgen für einen stabilen und geschützten Betrieb Ihrer Webseite, 24/7."
 weight: 20
 price_from: 150
+linkTitle: "Technische Betreuung"
+summary: "Wir pflegen CMS, Plugins und Themes, richten Backups ein und behalten den Betrieb im Blick. Regelmäßige Wartung hilft, Probleme frühzeitig zu erkennen und Ihre Website zuverlässig zu betreiben."
+icon: "technical-support"
+service_id: technical-support
+homepage: true
 ---
 
 Die technische Basis einer Webseite erfordert, ähnlich wie der Motor eines Autos, regelmäßige Wartung. Content-Management-Systeme (**CMS**) wie **WordPress, TYPO3, Joomla!, Contao** oder **Drupal** sowie deren **Plugins und Themes** werden von den Entwicklern ständig aktualisiert, um Sicherheitslücken zu schließen, die Leistung zu verbessern und neue Funktionen hinzuzufügen.

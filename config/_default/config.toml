@@ -1,5 +1,5 @@
 baseURL = "https://plus360.eu/"
-languageCode = "de"
+locale = "de-DE"
 defaultContentLanguage = 'de'
 defaultContentLanguageInSubdir = false
 disableDefaultLanguageRedirect = false
@@ -31,10 +31,13 @@ facebookLink = "https://www.facebook.com/plus360"
 [languages]
 [languages.de]
 weight = 1
-languageName = 'Deutsch'
+label = 'Deutsch'
+locale = 'de-DE'
 # [languages.en]
 # weight = 2
-# languageName = 'English'
+# label = 'English'
+# locale = 'en'
 [languages.ru]
 weight = 3
-languageName = 'Русский'
+label = 'Русский'
+locale = 'ru-RU'
