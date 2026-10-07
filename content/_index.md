@@ -1,5 +1,6 @@
 ---
 title: "Plus360 Webatelier & Webwerkstatt"
+seo_title: "Plus360 Webatelier | Websites erstellen, reparieren & betreuen"
 description: "Neue Websites und die Weiterentwicklung bestehender Seiten: Reparatur, Wartung, Inhalte, Datenschutz und Barrierefreiheit."
 menu:
   top:
