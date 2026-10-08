@@ -9,9 +9,9 @@ menu:
     weight: 60
     name: "FAQ"
     identifier: "faq"
-faq_notes: "Als Ihr Partner für die professionelle Webseiten-Betreuung sorgen wir dafür, dass Ihre Webseite stets sicher, schnell und aktuell ist. Wir verstehen, dass Sie viele Fragen zum Prozess, zur Technik und zu den Kosten haben könnten. Hier haben wir die Antworten auf die häufigsten Fragen zusammengestellt, um Ihnen Klarheit und Transparenz zu bieten."
+contact_title: "Noch eine Frage?"
+contact_text: "Beschreiben Sie uns Ihr Anliegen. Wir besprechen mit Ihnen die nächsten Schritte."
+contact_label: "Kontakt aufnehmen"
 ---
 
-Hier finden Sie Antworten auf die häufigsten Fragen rund um die professionelle Betreuung und Wartung von Webseiten. Unser Ziel ist es, Ihnen unsere Prozesse und Leistungen transparent und verständlich zu machen.
-
-Falls Ihre Frage hier nicht beantwortet wird, zögern Sie bitte nicht, uns über das [Kontaktformular]({{< relref "contact" >}})  zu kontaktieren.
+Hier finden Sie Antworten zu unserer Zusammenarbeit, zur Betreuung bestehender Websites und zu technischen Begriffen.
