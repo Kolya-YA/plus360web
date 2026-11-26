@@ -2,9 +2,13 @@
 date: "2025-07-22"
 title: "Reparatur & Weiterentwicklung von Webseiten"
 description: "Dienstleistungen für die Reparatur, Anpassung und Erweiterung der Funktionalität von Webseiten. Fehlerbehebung, Integration neuer Module und Dienste"
-summary: "Wir beheben Fehler, korrigieren Bugs und erweitern die Funktionalität Ihrer Webseite. Von der Reparatur eines Kontaktformulars bis zur Integration komplexer Systeme sind wir für jede Aufgabe bereit."
-weight: 30
+weight: 10
 price_from: 200
+linkTitle: "Reparatur & Weiterentwicklung"
+summary: "Wir finden und beheben Fehler, ergänzen Funktionen und verbessern bestehende Seiten für mobile Geräte. Ob defektes Formular oder neue Anbindung: Wir entwickeln Ihre Website gezielt weiter."
+icon: "repair-improvement"
+service_id: repair-improvement
+homepage: true
 ---
 
 Selbst auf der zuverlässigsten Webseite können mit der Zeit Fehler auftreten: Ein **Kontaktformular** sendet keine E-Mails mehr, das Layout ist auf einer Seite "verrutscht" oder ein Modul funktioniert nicht mehr. Solche Probleme verärgern nicht nur die Besucher, sondern können auch zu **direkten finanziellen Verlusten** führen, wenn beispielsweise der Bestellvorgang gestört ist.

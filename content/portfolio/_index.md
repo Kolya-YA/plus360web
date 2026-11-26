@@ -4,7 +4,7 @@ title: "Portfolio"
 subtitle: "Unsere Projekte für Kunden & Partner"
 menu:
   top:
-    name: "portfolio"
+    name: "Portfolio"
     weight: 30
     identifier: "portfolio"
 ---

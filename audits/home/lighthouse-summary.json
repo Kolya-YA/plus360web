@@ -1,0 +1,2372 @@
+[
+  {
+    "language": "de",
+    "theme": "dark",
+    "viewport": "1280x900",
+    "device": "desktop",
+    "mode": "snapshot",
+    "url": null,
+    "accessibilityScore": 1,
+    "environment": {
+      "hostUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "benchmarkIndex": 5548.5,
+      "credits": {
+        "axe-core": "4.12.1"
+      }
+    },
+    "audits": [
+      {
+        "id": "accesskeys",
+        "title": "`[accesskey]` values are unique",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-allowed-attr",
+        "title": "`[aria-*]` attributes match their roles",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-command-name",
+        "title": "`button`, `link`, and `menuitem` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-conditional-attr",
+        "title": "ARIA attributes are used as specified for the element's role",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-deprecated-role",
+        "title": "Deprecated ARIA roles were not used",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-dialog-name",
+        "title": "Elements with `role=\"dialog\"` or `role=\"alertdialog\"` have accessible names.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-hidden-body",
+        "title": "`[aria-hidden=\"true\"]` is not present on the document `<body>`",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-hidden-focus",
+        "title": "`[aria-hidden=\"true\"]` elements do not contain focusable descendents",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-input-field-name",
+        "title": "ARIA input fields have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-meter-name",
+        "title": "ARIA `meter` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-progressbar-name",
+        "title": "ARIA `progressbar` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-prohibited-attr",
+        "title": "Elements use only permitted ARIA attributes",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-required-attr",
+        "title": "`[role]`s have all required `[aria-*]` attributes",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-required-children",
+        "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` have all required children.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-required-parent",
+        "title": "`[role]`s are contained by their required parent element",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-roles",
+        "title": "`[role]` values are valid",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-text",
+        "title": "Elements with the `role=text` attribute do not have focusable descendents.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-toggle-field-name",
+        "title": "ARIA toggle fields have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-tooltip-name",
+        "title": "ARIA `tooltip` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-treeitem-name",
+        "title": "ARIA `treeitem` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "title": "`[aria-*]` attributes have valid values",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-valid-attr",
+        "title": "`[aria-*]` attributes are valid and not misspelled",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "button-name",
+        "title": "Buttons have an accessible name",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "bypass",
+        "title": "The page contains a heading, skip link, or landmark region",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "color-contrast",
+        "title": "Background and foreground colors have a sufficient contrast ratio",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "definition-list",
+        "title": "`<dl>`'s contain only properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "dlitem",
+        "title": "Definition list items are wrapped in `<dl>` elements",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "document-title",
+        "title": "Document has a `<title>` element",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "duplicate-id-aria",
+        "title": "ARIA IDs are unique",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "form-field-multiple-labels",
+        "title": "No form fields have multiple labels",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "frame-title",
+        "title": "`<frame>` or `<iframe>` elements have a title",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "heading-order",
+        "title": "Heading elements appear in a sequentially-descending order",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-has-lang",
+        "title": "`<html>` element has a `[lang]` attribute",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-lang-valid",
+        "title": "`<html>` element has a valid value for its `[lang]` attribute",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-xml-lang-mismatch",
+        "title": "`<html>` element has an `[xml:lang]` attribute with the same base language as the `[lang]` attribute.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "image-alt",
+        "title": "Image elements have `[alt]` attributes",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "input-button-name",
+        "title": "Input buttons have discernible text.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "input-image-alt",
+        "title": "`<input type=\"image\">` elements have `[alt]` text",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "label",
+        "title": "Form elements have associated labels",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "link-in-text-block",
+        "title": "Links are distinguishable without relying on color.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "link-name",
+        "title": "Links have a discernible name",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "list",
+        "title": "Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "listitem",
+        "title": "List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "meta-refresh",
+        "title": "The document does not use `<meta http-equiv=\"refresh\">`",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "meta-viewport",
+        "title": "`[user-scalable=\"no\"]` is not used in the `<meta name=\"viewport\">` element and the `[maximum-scale]` attribute is not less than 5.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "object-alt",
+        "title": "`<object>` elements have alternate text",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "select-name",
+        "title": "Select elements have associated label elements.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "skip-link",
+        "title": "Skip links are focusable.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "tabindex",
+        "title": "No element has a `[tabindex]` value greater than 0",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "target-size",
+        "title": "Touch targets have sufficient size and spacing.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "td-headers-attr",
+        "title": "Cells in a `<table>` element that use the `[headers]` attribute refer to table cells within the same table.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "th-has-data-cells",
+        "title": "`<th>` elements and elements with `[role=\"columnheader\"/\"rowheader\"]` have data cells they describe.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "valid-lang",
+        "title": "`[lang]` attributes have a valid value",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "video-caption",
+        "title": "`<video>` elements contain a `<track>` element with `[kind=\"captions\"]`",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "landmark-one-main",
+        "title": "Document has a main landmark.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "autocomplete-valid",
+        "title": "`autocomplete` attributes are used correctly",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "presentation-role-conflict",
+        "title": "Elements with `role=\"none\"` or `role=\"presentation\"` do not have conflicts",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "svg-img-alt",
+        "title": "SVG elements with an `img` role have an accessible text alternative",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "focusable-controls",
+        "title": "Interactive controls are keyboard focusable",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "interactive-element-affordance",
+        "title": "Interactive elements indicate their purpose and state",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "logical-tab-order",
+        "title": "The page has a logical tab order",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "visual-order-follows-dom",
+        "title": "Visual order on the page follows DOM order",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "focus-traps",
+        "title": "User focus is not accidentally trapped in a region",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "managed-focus",
+        "title": "The user's focus is directed to new content added to the page",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "use-landmarks",
+        "title": "HTML5 landmark elements are used to improve navigation",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "offscreen-content-hidden",
+        "title": "Offscreen content is hidden from assistive technology",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "custom-controls-labels",
+        "title": "Custom controls have associated labels",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "custom-controls-roles",
+        "title": "Custom controls have ARIA roles",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "table-duplicate-name",
+        "title": "Tables have different content in the summary attribute and `<caption>`.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "empty-heading",
+        "title": "All heading elements contain content.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-allowed-role",
+        "title": "Uses ARIA roles only on compatible elements",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "image-redundant-alt",
+        "title": "Image elements do not have `[alt]` attributes that are redundant text.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "identical-links-same-purpose",
+        "title": "Identical links have the same purpose.",
+        "score": 1,
+        "scoreDisplayMode": "informative"
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels have matching accessible names.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "table-fake-caption",
+        "title": "Tables use `<caption>` instead of cells with the `[colspan]` attribute to indicate a caption.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "td-has-header",
+        "title": "`<td>` elements in a large `<table>` have one or more table headers.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "theme": "light",
+    "viewport": "1280x900",
+    "device": "desktop",
+    "mode": "snapshot",
+    "url": null,
+    "accessibilityScore": 1,
+    "environment": {
+      "hostUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "benchmarkIndex": 5563,
+      "credits": {
+        "axe-core": "4.12.1"
+      }
+    },
+    "audits": [
+      {
+        "id": "accesskeys",
+        "title": "`[accesskey]` values are unique",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-allowed-attr",
+        "title": "`[aria-*]` attributes match their roles",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-command-name",
+        "title": "`button`, `link`, and `menuitem` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-conditional-attr",
+        "title": "ARIA attributes are used as specified for the element's role",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-deprecated-role",
+        "title": "Deprecated ARIA roles were not used",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-dialog-name",
+        "title": "Elements with `role=\"dialog\"` or `role=\"alertdialog\"` have accessible names.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-hidden-body",
+        "title": "`[aria-hidden=\"true\"]` is not present on the document `<body>`",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-hidden-focus",
+        "title": "`[aria-hidden=\"true\"]` elements do not contain focusable descendents",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-input-field-name",
+        "title": "ARIA input fields have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-meter-name",
+        "title": "ARIA `meter` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-progressbar-name",
+        "title": "ARIA `progressbar` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-prohibited-attr",
+        "title": "Elements use only permitted ARIA attributes",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-required-attr",
+        "title": "`[role]`s have all required `[aria-*]` attributes",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-required-children",
+        "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` have all required children.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-required-parent",
+        "title": "`[role]`s are contained by their required parent element",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-roles",
+        "title": "`[role]` values are valid",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-text",
+        "title": "Elements with the `role=text` attribute do not have focusable descendents.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-toggle-field-name",
+        "title": "ARIA toggle fields have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-tooltip-name",
+        "title": "ARIA `tooltip` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-treeitem-name",
+        "title": "ARIA `treeitem` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "title": "`[aria-*]` attributes have valid values",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-valid-attr",
+        "title": "`[aria-*]` attributes are valid and not misspelled",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "button-name",
+        "title": "Buttons have an accessible name",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "bypass",
+        "title": "The page contains a heading, skip link, or landmark region",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "color-contrast",
+        "title": "Background and foreground colors have a sufficient contrast ratio",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "definition-list",
+        "title": "`<dl>`'s contain only properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "dlitem",
+        "title": "Definition list items are wrapped in `<dl>` elements",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "document-title",
+        "title": "Document has a `<title>` element",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "duplicate-id-aria",
+        "title": "ARIA IDs are unique",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "form-field-multiple-labels",
+        "title": "No form fields have multiple labels",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "frame-title",
+        "title": "`<frame>` or `<iframe>` elements have a title",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "heading-order",
+        "title": "Heading elements appear in a sequentially-descending order",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-has-lang",
+        "title": "`<html>` element has a `[lang]` attribute",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-lang-valid",
+        "title": "`<html>` element has a valid value for its `[lang]` attribute",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-xml-lang-mismatch",
+        "title": "`<html>` element has an `[xml:lang]` attribute with the same base language as the `[lang]` attribute.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "image-alt",
+        "title": "Image elements have `[alt]` attributes",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "input-button-name",
+        "title": "Input buttons have discernible text.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "input-image-alt",
+        "title": "`<input type=\"image\">` elements have `[alt]` text",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "label",
+        "title": "Form elements have associated labels",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "link-in-text-block",
+        "title": "Links are distinguishable without relying on color.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "link-name",
+        "title": "Links have a discernible name",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "list",
+        "title": "Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "listitem",
+        "title": "List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "meta-refresh",
+        "title": "The document does not use `<meta http-equiv=\"refresh\">`",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "meta-viewport",
+        "title": "`[user-scalable=\"no\"]` is not used in the `<meta name=\"viewport\">` element and the `[maximum-scale]` attribute is not less than 5.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "object-alt",
+        "title": "`<object>` elements have alternate text",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "select-name",
+        "title": "Select elements have associated label elements.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "skip-link",
+        "title": "Skip links are focusable.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "tabindex",
+        "title": "No element has a `[tabindex]` value greater than 0",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "target-size",
+        "title": "Touch targets have sufficient size and spacing.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "td-headers-attr",
+        "title": "Cells in a `<table>` element that use the `[headers]` attribute refer to table cells within the same table.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "th-has-data-cells",
+        "title": "`<th>` elements and elements with `[role=\"columnheader\"/\"rowheader\"]` have data cells they describe.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "valid-lang",
+        "title": "`[lang]` attributes have a valid value",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "video-caption",
+        "title": "`<video>` elements contain a `<track>` element with `[kind=\"captions\"]`",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "landmark-one-main",
+        "title": "Document has a main landmark.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "autocomplete-valid",
+        "title": "`autocomplete` attributes are used correctly",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "presentation-role-conflict",
+        "title": "Elements with `role=\"none\"` or `role=\"presentation\"` do not have conflicts",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "svg-img-alt",
+        "title": "SVG elements with an `img` role have an accessible text alternative",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "focusable-controls",
+        "title": "Interactive controls are keyboard focusable",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "interactive-element-affordance",
+        "title": "Interactive elements indicate their purpose and state",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "logical-tab-order",
+        "title": "The page has a logical tab order",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "visual-order-follows-dom",
+        "title": "Visual order on the page follows DOM order",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "focus-traps",
+        "title": "User focus is not accidentally trapped in a region",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "managed-focus",
+        "title": "The user's focus is directed to new content added to the page",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "use-landmarks",
+        "title": "HTML5 landmark elements are used to improve navigation",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "offscreen-content-hidden",
+        "title": "Offscreen content is hidden from assistive technology",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "custom-controls-labels",
+        "title": "Custom controls have associated labels",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "custom-controls-roles",
+        "title": "Custom controls have ARIA roles",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "table-duplicate-name",
+        "title": "Tables have different content in the summary attribute and `<caption>`.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "empty-heading",
+        "title": "All heading elements contain content.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-allowed-role",
+        "title": "Uses ARIA roles only on compatible elements",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "image-redundant-alt",
+        "title": "Image elements do not have `[alt]` attributes that are redundant text.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "identical-links-same-purpose",
+        "title": "Identical links have the same purpose.",
+        "score": 1,
+        "scoreDisplayMode": "informative"
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels have matching accessible names.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "table-fake-caption",
+        "title": "Tables use `<caption>` instead of cells with the `[colspan]` attribute to indicate a caption.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "td-has-header",
+        "title": "`<td>` elements in a large `<table>` have one or more table headers.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      }
+    ]
+  },
+  {
+    "language": "de",
+    "theme": "light",
+    "viewport": "320x800",
+    "device": "mobile",
+    "mode": "snapshot",
+    "url": null,
+    "accessibilityScore": 1,
+    "environment": {
+      "hostUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "benchmarkIndex": 5521.5,
+      "credits": {
+        "axe-core": "4.12.1"
+      }
+    },
+    "audits": [
+      {
+        "id": "accesskeys",
+        "title": "`[accesskey]` values are unique",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-allowed-attr",
+        "title": "`[aria-*]` attributes match their roles",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-command-name",
+        "title": "`button`, `link`, and `menuitem` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-conditional-attr",
+        "title": "ARIA attributes are used as specified for the element's role",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-deprecated-role",
+        "title": "Deprecated ARIA roles were not used",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-dialog-name",
+        "title": "Elements with `role=\"dialog\"` or `role=\"alertdialog\"` have accessible names.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-hidden-body",
+        "title": "`[aria-hidden=\"true\"]` is not present on the document `<body>`",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-hidden-focus",
+        "title": "`[aria-hidden=\"true\"]` elements do not contain focusable descendents",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-input-field-name",
+        "title": "ARIA input fields have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-meter-name",
+        "title": "ARIA `meter` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-progressbar-name",
+        "title": "ARIA `progressbar` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-prohibited-attr",
+        "title": "Elements use only permitted ARIA attributes",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-required-attr",
+        "title": "`[role]`s have all required `[aria-*]` attributes",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-required-children",
+        "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` have all required children.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-required-parent",
+        "title": "`[role]`s are contained by their required parent element",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-roles",
+        "title": "`[role]` values are valid",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-text",
+        "title": "Elements with the `role=text` attribute do not have focusable descendents.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-toggle-field-name",
+        "title": "ARIA toggle fields have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-tooltip-name",
+        "title": "ARIA `tooltip` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-treeitem-name",
+        "title": "ARIA `treeitem` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "title": "`[aria-*]` attributes have valid values",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-valid-attr",
+        "title": "`[aria-*]` attributes are valid and not misspelled",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "button-name",
+        "title": "Buttons have an accessible name",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "bypass",
+        "title": "The page contains a heading, skip link, or landmark region",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "color-contrast",
+        "title": "Background and foreground colors have a sufficient contrast ratio",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "definition-list",
+        "title": "`<dl>`'s contain only properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "dlitem",
+        "title": "Definition list items are wrapped in `<dl>` elements",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "document-title",
+        "title": "Document has a `<title>` element",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "duplicate-id-aria",
+        "title": "ARIA IDs are unique",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "form-field-multiple-labels",
+        "title": "No form fields have multiple labels",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "frame-title",
+        "title": "`<frame>` or `<iframe>` elements have a title",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "heading-order",
+        "title": "Heading elements appear in a sequentially-descending order",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-has-lang",
+        "title": "`<html>` element has a `[lang]` attribute",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-lang-valid",
+        "title": "`<html>` element has a valid value for its `[lang]` attribute",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-xml-lang-mismatch",
+        "title": "`<html>` element has an `[xml:lang]` attribute with the same base language as the `[lang]` attribute.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "image-alt",
+        "title": "Image elements have `[alt]` attributes",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "input-button-name",
+        "title": "Input buttons have discernible text.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "input-image-alt",
+        "title": "`<input type=\"image\">` elements have `[alt]` text",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "label",
+        "title": "Form elements have associated labels",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "link-in-text-block",
+        "title": "Links are distinguishable without relying on color.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "link-name",
+        "title": "Links have a discernible name",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "list",
+        "title": "Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "listitem",
+        "title": "List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "meta-refresh",
+        "title": "The document does not use `<meta http-equiv=\"refresh\">`",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "meta-viewport",
+        "title": "`[user-scalable=\"no\"]` is not used in the `<meta name=\"viewport\">` element and the `[maximum-scale]` attribute is not less than 5.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "object-alt",
+        "title": "`<object>` elements have alternate text",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "select-name",
+        "title": "Select elements have associated label elements.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "skip-link",
+        "title": "Skip links are focusable.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "tabindex",
+        "title": "No element has a `[tabindex]` value greater than 0",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "target-size",
+        "title": "Touch targets have sufficient size and spacing.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "td-headers-attr",
+        "title": "Cells in a `<table>` element that use the `[headers]` attribute refer to table cells within the same table.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "th-has-data-cells",
+        "title": "`<th>` elements and elements with `[role=\"columnheader\"/\"rowheader\"]` have data cells they describe.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "valid-lang",
+        "title": "`[lang]` attributes have a valid value",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "video-caption",
+        "title": "`<video>` elements contain a `<track>` element with `[kind=\"captions\"]`",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "landmark-one-main",
+        "title": "Document has a main landmark.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "autocomplete-valid",
+        "title": "`autocomplete` attributes are used correctly",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "presentation-role-conflict",
+        "title": "Elements with `role=\"none\"` or `role=\"presentation\"` do not have conflicts",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "svg-img-alt",
+        "title": "SVG elements with an `img` role have an accessible text alternative",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "focusable-controls",
+        "title": "Interactive controls are keyboard focusable",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "interactive-element-affordance",
+        "title": "Interactive elements indicate their purpose and state",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "logical-tab-order",
+        "title": "The page has a logical tab order",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "visual-order-follows-dom",
+        "title": "Visual order on the page follows DOM order",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "focus-traps",
+        "title": "User focus is not accidentally trapped in a region",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "managed-focus",
+        "title": "The user's focus is directed to new content added to the page",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "use-landmarks",
+        "title": "HTML5 landmark elements are used to improve navigation",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "offscreen-content-hidden",
+        "title": "Offscreen content is hidden from assistive technology",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "custom-controls-labels",
+        "title": "Custom controls have associated labels",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "custom-controls-roles",
+        "title": "Custom controls have ARIA roles",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "table-duplicate-name",
+        "title": "Tables have different content in the summary attribute and `<caption>`.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "empty-heading",
+        "title": "All heading elements contain content.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-allowed-role",
+        "title": "Uses ARIA roles only on compatible elements",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "image-redundant-alt",
+        "title": "Image elements do not have `[alt]` attributes that are redundant text.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "identical-links-same-purpose",
+        "title": "Identical links have the same purpose.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels have matching accessible names.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "table-fake-caption",
+        "title": "Tables use `<caption>` instead of cells with the `[colspan]` attribute to indicate a caption.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "td-has-header",
+        "title": "`<td>` elements in a large `<table>` have one or more table headers.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      }
+    ]
+  },
+  {
+    "language": "ru",
+    "theme": "dark",
+    "viewport": "320x800",
+    "device": "mobile",
+    "mode": "snapshot",
+    "url": null,
+    "accessibilityScore": 1,
+    "environment": {
+      "hostUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "benchmarkIndex": 5546,
+      "credits": {
+        "axe-core": "4.12.1"
+      }
+    },
+    "audits": [
+      {
+        "id": "accesskeys",
+        "title": "`[accesskey]` values are unique",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-allowed-attr",
+        "title": "`[aria-*]` attributes match their roles",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-command-name",
+        "title": "`button`, `link`, and `menuitem` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-conditional-attr",
+        "title": "ARIA attributes are used as specified for the element's role",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-deprecated-role",
+        "title": "Deprecated ARIA roles were not used",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-dialog-name",
+        "title": "Elements with `role=\"dialog\"` or `role=\"alertdialog\"` have accessible names.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-hidden-body",
+        "title": "`[aria-hidden=\"true\"]` is not present on the document `<body>`",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-hidden-focus",
+        "title": "`[aria-hidden=\"true\"]` elements do not contain focusable descendents",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-input-field-name",
+        "title": "ARIA input fields have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-meter-name",
+        "title": "ARIA `meter` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-progressbar-name",
+        "title": "ARIA `progressbar` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-prohibited-attr",
+        "title": "Elements use only permitted ARIA attributes",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-required-attr",
+        "title": "`[role]`s have all required `[aria-*]` attributes",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-required-children",
+        "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` have all required children.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-required-parent",
+        "title": "`[role]`s are contained by their required parent element",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-roles",
+        "title": "`[role]` values are valid",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-text",
+        "title": "Elements with the `role=text` attribute do not have focusable descendents.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-toggle-field-name",
+        "title": "ARIA toggle fields have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-tooltip-name",
+        "title": "ARIA `tooltip` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-treeitem-name",
+        "title": "ARIA `treeitem` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "title": "`[aria-*]` attributes have valid values",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-valid-attr",
+        "title": "`[aria-*]` attributes are valid and not misspelled",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "button-name",
+        "title": "Buttons have an accessible name",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "bypass",
+        "title": "The page contains a heading, skip link, or landmark region",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "color-contrast",
+        "title": "Background and foreground colors have a sufficient contrast ratio",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "definition-list",
+        "title": "`<dl>`'s contain only properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "dlitem",
+        "title": "Definition list items are wrapped in `<dl>` elements",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "document-title",
+        "title": "Document has a `<title>` element",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "duplicate-id-aria",
+        "title": "ARIA IDs are unique",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "form-field-multiple-labels",
+        "title": "No form fields have multiple labels",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "frame-title",
+        "title": "`<frame>` or `<iframe>` elements have a title",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "heading-order",
+        "title": "Heading elements appear in a sequentially-descending order",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-has-lang",
+        "title": "`<html>` element has a `[lang]` attribute",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-lang-valid",
+        "title": "`<html>` element has a valid value for its `[lang]` attribute",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-xml-lang-mismatch",
+        "title": "`<html>` element has an `[xml:lang]` attribute with the same base language as the `[lang]` attribute.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "image-alt",
+        "title": "Image elements have `[alt]` attributes",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "input-button-name",
+        "title": "Input buttons have discernible text.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "input-image-alt",
+        "title": "`<input type=\"image\">` elements have `[alt]` text",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "label",
+        "title": "Form elements have associated labels",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "link-in-text-block",
+        "title": "Links are distinguishable without relying on color.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "link-name",
+        "title": "Links have a discernible name",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "list",
+        "title": "Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "listitem",
+        "title": "List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "meta-refresh",
+        "title": "The document does not use `<meta http-equiv=\"refresh\">`",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "meta-viewport",
+        "title": "`[user-scalable=\"no\"]` is not used in the `<meta name=\"viewport\">` element and the `[maximum-scale]` attribute is not less than 5.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "object-alt",
+        "title": "`<object>` elements have alternate text",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "select-name",
+        "title": "Select elements have associated label elements.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "skip-link",
+        "title": "Skip links are focusable.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "tabindex",
+        "title": "No element has a `[tabindex]` value greater than 0",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "target-size",
+        "title": "Touch targets have sufficient size and spacing.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "td-headers-attr",
+        "title": "Cells in a `<table>` element that use the `[headers]` attribute refer to table cells within the same table.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "th-has-data-cells",
+        "title": "`<th>` elements and elements with `[role=\"columnheader\"/\"rowheader\"]` have data cells they describe.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "valid-lang",
+        "title": "`[lang]` attributes have a valid value",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "video-caption",
+        "title": "`<video>` elements contain a `<track>` element with `[kind=\"captions\"]`",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "landmark-one-main",
+        "title": "Document has a main landmark.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "autocomplete-valid",
+        "title": "`autocomplete` attributes are used correctly",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "presentation-role-conflict",
+        "title": "Elements with `role=\"none\"` or `role=\"presentation\"` do not have conflicts",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "svg-img-alt",
+        "title": "SVG elements with an `img` role have an accessible text alternative",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "focusable-controls",
+        "title": "Interactive controls are keyboard focusable",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "interactive-element-affordance",
+        "title": "Interactive elements indicate their purpose and state",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "logical-tab-order",
+        "title": "The page has a logical tab order",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "visual-order-follows-dom",
+        "title": "Visual order on the page follows DOM order",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "focus-traps",
+        "title": "User focus is not accidentally trapped in a region",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "managed-focus",
+        "title": "The user's focus is directed to new content added to the page",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "use-landmarks",
+        "title": "HTML5 landmark elements are used to improve navigation",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "offscreen-content-hidden",
+        "title": "Offscreen content is hidden from assistive technology",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "custom-controls-labels",
+        "title": "Custom controls have associated labels",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "custom-controls-roles",
+        "title": "Custom controls have ARIA roles",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "table-duplicate-name",
+        "title": "Tables have different content in the summary attribute and `<caption>`.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "empty-heading",
+        "title": "All heading elements contain content.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-allowed-role",
+        "title": "Uses ARIA roles only on compatible elements",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "image-redundant-alt",
+        "title": "Image elements do not have `[alt]` attributes that are redundant text.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "identical-links-same-purpose",
+        "title": "Identical links have the same purpose.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels have matching accessible names.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "table-fake-caption",
+        "title": "Tables use `<caption>` instead of cells with the `[colspan]` attribute to indicate a caption.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "td-has-header",
+        "title": "`<td>` elements in a large `<table>` have one or more table headers.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      }
+    ]
+  },
+  {
+    "language": "ru",
+    "theme": "light",
+    "viewport": "320x800",
+    "device": "mobile",
+    "mode": "snapshot",
+    "url": null,
+    "accessibilityScore": 1,
+    "environment": {
+      "hostUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36",
+      "benchmarkIndex": 5565.5,
+      "credits": {
+        "axe-core": "4.12.1"
+      }
+    },
+    "audits": [
+      {
+        "id": "accesskeys",
+        "title": "`[accesskey]` values are unique",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-allowed-attr",
+        "title": "`[aria-*]` attributes match their roles",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-command-name",
+        "title": "`button`, `link`, and `menuitem` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-conditional-attr",
+        "title": "ARIA attributes are used as specified for the element's role",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-deprecated-role",
+        "title": "Deprecated ARIA roles were not used",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-dialog-name",
+        "title": "Elements with `role=\"dialog\"` or `role=\"alertdialog\"` have accessible names.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-hidden-body",
+        "title": "`[aria-hidden=\"true\"]` is not present on the document `<body>`",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-hidden-focus",
+        "title": "`[aria-hidden=\"true\"]` elements do not contain focusable descendents",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-input-field-name",
+        "title": "ARIA input fields have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-meter-name",
+        "title": "ARIA `meter` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-progressbar-name",
+        "title": "ARIA `progressbar` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-prohibited-attr",
+        "title": "Elements use only permitted ARIA attributes",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-required-attr",
+        "title": "`[role]`s have all required `[aria-*]` attributes",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-required-children",
+        "title": "Elements with an ARIA `[role]` that require children to contain a specific `[role]` have all required children.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-required-parent",
+        "title": "`[role]`s are contained by their required parent element",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-roles",
+        "title": "`[role]` values are valid",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-text",
+        "title": "Elements with the `role=text` attribute do not have focusable descendents.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-toggle-field-name",
+        "title": "ARIA toggle fields have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-tooltip-name",
+        "title": "ARIA `tooltip` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-treeitem-name",
+        "title": "ARIA `treeitem` elements have accessible names",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-valid-attr-value",
+        "title": "`[aria-*]` attributes have valid values",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "aria-valid-attr",
+        "title": "`[aria-*]` attributes are valid and not misspelled",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "button-name",
+        "title": "Buttons have an accessible name",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "bypass",
+        "title": "The page contains a heading, skip link, or landmark region",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "color-contrast",
+        "title": "Background and foreground colors have a sufficient contrast ratio",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "definition-list",
+        "title": "`<dl>`'s contain only properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "dlitem",
+        "title": "Definition list items are wrapped in `<dl>` elements",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "document-title",
+        "title": "Document has a `<title>` element",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "duplicate-id-aria",
+        "title": "ARIA IDs are unique",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "form-field-multiple-labels",
+        "title": "No form fields have multiple labels",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "frame-title",
+        "title": "`<frame>` or `<iframe>` elements have a title",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "heading-order",
+        "title": "Heading elements appear in a sequentially-descending order",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-has-lang",
+        "title": "`<html>` element has a `[lang]` attribute",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-lang-valid",
+        "title": "`<html>` element has a valid value for its `[lang]` attribute",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "html-xml-lang-mismatch",
+        "title": "`<html>` element has an `[xml:lang]` attribute with the same base language as the `[lang]` attribute.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "image-alt",
+        "title": "Image elements have `[alt]` attributes",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "input-button-name",
+        "title": "Input buttons have discernible text.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "input-image-alt",
+        "title": "`<input type=\"image\">` elements have `[alt]` text",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "label",
+        "title": "Form elements have associated labels",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "link-in-text-block",
+        "title": "Links are distinguishable without relying on color.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "link-name",
+        "title": "Links have a discernible name",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "list",
+        "title": "Lists contain only `<li>` elements and script supporting elements (`<script>` and `<template>`).",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "listitem",
+        "title": "List items (`<li>`) are contained within `<ul>`, `<ol>` or `<menu>` parent elements",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "meta-refresh",
+        "title": "The document does not use `<meta http-equiv=\"refresh\">`",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "meta-viewport",
+        "title": "`[user-scalable=\"no\"]` is not used in the `<meta name=\"viewport\">` element and the `[maximum-scale]` attribute is not less than 5.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "object-alt",
+        "title": "`<object>` elements have alternate text",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "select-name",
+        "title": "Select elements have associated label elements.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "skip-link",
+        "title": "Skip links are focusable.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "tabindex",
+        "title": "No element has a `[tabindex]` value greater than 0",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "target-size",
+        "title": "Touch targets have sufficient size and spacing.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "td-headers-attr",
+        "title": "Cells in a `<table>` element that use the `[headers]` attribute refer to table cells within the same table.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "th-has-data-cells",
+        "title": "`<th>` elements and elements with `[role=\"columnheader\"/\"rowheader\"]` have data cells they describe.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "valid-lang",
+        "title": "`[lang]` attributes have a valid value",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "video-caption",
+        "title": "`<video>` elements contain a `<track>` element with `[kind=\"captions\"]`",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "landmark-one-main",
+        "title": "Document has a main landmark.",
+        "score": 1,
+        "scoreDisplayMode": "binary"
+      },
+      {
+        "id": "autocomplete-valid",
+        "title": "`autocomplete` attributes are used correctly",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "presentation-role-conflict",
+        "title": "Elements with `role=\"none\"` or `role=\"presentation\"` do not have conflicts",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "svg-img-alt",
+        "title": "SVG elements with an `img` role have an accessible text alternative",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "focusable-controls",
+        "title": "Interactive controls are keyboard focusable",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "interactive-element-affordance",
+        "title": "Interactive elements indicate their purpose and state",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "logical-tab-order",
+        "title": "The page has a logical tab order",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "visual-order-follows-dom",
+        "title": "Visual order on the page follows DOM order",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "focus-traps",
+        "title": "User focus is not accidentally trapped in a region",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "managed-focus",
+        "title": "The user's focus is directed to new content added to the page",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "use-landmarks",
+        "title": "HTML5 landmark elements are used to improve navigation",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "offscreen-content-hidden",
+        "title": "Offscreen content is hidden from assistive technology",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "custom-controls-labels",
+        "title": "Custom controls have associated labels",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "custom-controls-roles",
+        "title": "Custom controls have ARIA roles",
+        "score": null,
+        "scoreDisplayMode": "manual"
+      },
+      {
+        "id": "table-duplicate-name",
+        "title": "Tables have different content in the summary attribute and `<caption>`.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "empty-heading",
+        "title": "All heading elements contain content.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "aria-allowed-role",
+        "title": "Uses ARIA roles only on compatible elements",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "image-redundant-alt",
+        "title": "Image elements do not have `[alt]` attributes that are redundant text.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "identical-links-same-purpose",
+        "title": "Identical links have the same purpose.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "label-content-name-mismatch",
+        "title": "Elements with visible text labels have matching accessible names.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "table-fake-caption",
+        "title": "Tables use `<caption>` instead of cells with the `[colspan]` attribute to indicate a caption.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      },
+      {
+        "id": "td-has-header",
+        "title": "`<td>` elements in a large `<table>` have one or more table headers.",
+        "score": null,
+        "scoreDisplayMode": "notApplicable"
+      }
+    ]
+  }
+]

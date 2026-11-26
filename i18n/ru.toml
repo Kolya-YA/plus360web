@@ -210,3 +210,39 @@ submit_success_header = "Успех!"
 submit_success_msg = "Спасибо!<br>Мы свяжемся с вами в ближайшее время."
 submit_error_header = "Ошибка!"
 submit_error_msg = "При отправке формы произошла ошибка.<br>Пожалуйста, попробуйте еще раз."
+[navigation_menu]
+other = "Меню навигации"
+
+[skip_to_content]
+other = "Перейти к содержимому"
+
+[back_to_top]
+other = "Вернуться наверх"
+
+[service_details]
+other = "Подробнее"
+
+[theme_label]
+other = "Оформление"
+
+[theme_system]
+other = "Как в системе"
+
+[theme_light]
+other = "Светлое"
+
+[theme_dark]
+other = "Тёмное"
+
+[main_navigation]
+other = "Основная навигация"
+
+[footer_navigation]
+other = "Дополнительная информация"
+
+[opens_new_tab]
+other = "откроется в новой вкладке"
+
+
+[faq_topics]
+other = "Темы вопросов"

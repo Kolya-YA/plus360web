@@ -2,9 +2,13 @@
 date: "2025-07-22"
 title: "Webseiten Content-Pflege & Aktualisierung"
 subtitle: "Neue Websites für jedes Unternehmen"
-summary: "Frischer Inhalt ist der Schlüssel zu hohen Suchmaschinen-Rankings und Kundenvertrauen. Wir pflegen Ihre Texte, Bilder und Nachrichten schnell ein und achten dabei auf korrekte Darstellung und Optimierung."
-weight: 10
+weight: 30
 price_from: 100
+linkTitle: "Content-Pflege"
+summary: "Wir aktualisieren Texte, Bilder, Angebote und Kontaktdaten auf Ihrer Website. Sie liefern die Inhalte, wir kümmern uns um die Einpflege, eine passende Darstellung und die Optimierung der Bilder."
+icon: "content-update"
+service_id: content-update
+homepage: true
 ---
 
 **Frischer und relevanter Inhalt** ist die Grundlage einer erfolgreichen Webseite. Er zieht Besucher an, fesselt ihre Aufmerksamkeit und ist ein entscheidender Faktor für Suchmaschinen wie **Google**. Veraltete Informationen, unaktuelle Nachrichten oder abgelaufene Aktionen können Ihrem Image schaden und das **Kundenvertrauen untergraben**.

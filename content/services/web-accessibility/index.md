@@ -2,9 +2,13 @@
 date: "2025-07-22"
 title: "Barrierefreiheit im Web (Accessibility)"
 description: "Dienstleistungen zur Sicherstellung der Barrierefreiheit von Webseiten gemäß den WCAG-Standards und dem deutschen BITV-Gesetz"
-summary: "Wir passen Ihre Webseite an die **WCAG**-Standards und das deutsche **BITV**-Gesetz an, um sie für alle Nutzer, einschließlich Menschen mit Behinderungen, zugänglich zu machen."
 weight: 60
 price_from: 500
+linkTitle: "Barrierefreiheit"
+summary: "Wir verbessern Struktur, Kontraste, Tastaturbedienung und die Zugänglichkeit Ihrer Inhalte. Schritt für Schritt bauen wir Barrieren ab und unterstützen die technische Umsetzung der für Ihre Website relevanten Anforderungen."
+icon: "web-accessibility"
+service_id: web-accessibility
+homepage: true
 ---
 
 **Barrierefreiheit im Web (Accessibility, a11y)** bedeutet, dass Ihre Webseite von allen Menschen genutzt werden kann, einschließlich jener mit **Seh-, Hör-, motorischen oder kognitiven Einschränkungen**. In Deutschland und anderen EU-Ländern gibt es Gesetze (z.B. das **BITV**), die viele Webseiten dazu verpflichten, für Menschen mit Behinderungen zugänglich zu sein.
